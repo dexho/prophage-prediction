@@ -1,0 +1,704 @@
+,orgId,scaffoldId,source,phage_gene,start,end,length,geneID,CCD,paperBLAST,found
+0,ANA3,248374,server_RAST,Prophage Lp2 protein 6 gene,"1,127,762","1,128,826","1,065",,,,False
+1,,248374,server_RAST,Phage integrase gene,"3,546,379","3,547,605","1,227",,,,False
+2,,248374,server_RAST,Phage integrase gene,"3,490,196","3,491,653","1,458",,,,False
+3,,248374,server_RAST,Putative phage protein gene,"3,148,198","3,149,577","1,380",,,,False
+4,,248374,server_RAST,Phage integrase gene,"2,835,885","2,837,063","1,179",,,,False
+5,,248374,server_RAST,Phage protein gene,"2,831,908","2,835,000","3,093",,,,False
+6,,248374,server_RAST,"Site-specific recombinase, phage integrase family gene","2,527,441","2,528,736","1,296",,,,False
+7,,248374,server_RAST,Phage integrase gene,"2,417,021","2,418,244","1,224",,,,False
+8,,248374,server_RAST,phage integrase family protein gene,"2,380,138","2,381,247","1,110",,,,False
+9,,248374,server_RAST,phage integrase family protein gene,"2,127,115","2,127,681",567,,,,False
+10,,248374,server_RAST,"phage transcriptional regulator, AlpA gene","2,122,596","2,122,814",219,,,,False
+11,,248374,server_RAST,Phage integrase gene,"2,118,970","2,120,205","1,236",,,,False
+12,azobra,NC_016617,server_RAST,Phage repressor gene,"2,927,406","2,928,038",633,,,,False
+13,,NC_016617,server_RAST,Phage terminase large subunit gene,"2,898,495","2,899,802","1,308",,,,True
+14,,NC_016618,server_RAST,Phage capsid and scaffold gene,"679,619","681,577","1,959",,,,False
+15,,NC_016618,server_RAST,Phage capsid protein gene,"662,238","663,236",999,,,,True
+16,,NC_016595,server_RAST,phage related protein gene,"651,206","651,895",690,,,,False
+17,,NC_016595,server_RAST,"Phage terminase, large subunit gene","625,236","626,660","1,425",,,,True
+18,,NC_016595,server_RAST,Phage protein gene,"623,617","625,239","1,623",,,,True
+19,,NC_016595,server_RAST,Phage protein gene,"622,667","623,470",804,,,,True
+20,,NC_016595,server_RAST,Phage protein gene,"620,650","622,416","1,767",,,,True
+21,,NC_016595,server_RAST,Phage-related protein gene,"614,012","615,841","1,830",,,,True
+22,,NC_016595,server_RAST,putative bacteriophage protein gene,"610,551","611,213",663,,,,True
+23,,NC_016595,server_RAST,Phage-related protein gene,"608,058","608,789",732,,,,True
+24,,NC_016595,server_RAST,Putative bacteriophage protein gene,"605,475","606,425",951,,,,True
+25,,NC_016595,server_RAST,Phage tail fiber protein gene,"377,832","380,264","2,433",,,,False
+26,,NC_016595,server_RAST,Phage tail fiber protein gene,"373,306","375,894","2,589",,,,False
+27,,NC_016594,server_RAST,Phage Holliday junction resolvase gene,"185,149","185,619",471,,,,True
+28,,NC_016596,server_RAST,phage integrase gene,"156,660","157,820","1,161",,,,False
+29,,NC_016619,server_RAST,Phage DNA invertase gene,"33,251","33,829",579,,,,False
+30,BFirm,NC_010681,server_RAST,Gifsy-2 prophage protein gene,"3,135,010","3,135,732",723,,,,False
+31,,NC_010681,server_RAST,Phage portal protein gene,"2,947,675","2,948,058",384,,,,False
+32,,NC_010681,server_RAST,"Phage-related protein, tail component gene","1,666,931","1,667,803",873,,,,False
+33,,NC_010681,server_RAST,Phage portal protein gene,"1,311,525","1,312,994","1,470",,,,True
+34,,NC_010681,server_RAST,"Phage terminase, large subunit gene","1,309,425","1,311,317","1,893",,,,True
+35,,NC_010681,server_RAST,PUTATIVE BACTERIOPHAGE-RELATED PROTEIN gene,"1,308,668","1,309,315",648,,,,True
+36,,NC_010681,server_RAST,Phage-related protein gene,"795,584","795,931",348,,,,False
+37,,NC_010681,server_RAST,Probable bacteriophage integrase gene,"286,317","287,534","1,218",,,,False
+38,,NC_010681,server_RAST,Phage-related integrase Mvan 5938 gene,"261,634","262,635","1,002",,,,True
+39,,NC_010681,server_RAST,"Phage Transcriptional regulator, AlpA gene","170,907","171,149",243,,,,True
+40,Btheta,241,server_RAST,Phage-related integrase Mvan 5938 gene,"3,288,975","3,289,967",993,,,,False
+41,,241,server_RAST,Phage tail fiber protein gene,"3,108,332","3,111,382","3,051",,,,False
+42,,241,server_RAST,Putative phage protein gene,"2,909,831","2,910,562",732,,,,False
+43,,241,server_RAST,Co-activator of prophage gene expression IbrA,"2,885,216","2,886,490","1,275",,,,False
+44,,241,server_RAST,Co-activator of prophage gene expression IbrB,"2,884,699","2,885,211",513,,,,False
+45,,241,server_RAST,probable bacteriophage protein gene,"1,515,380","1,516,078",699,,,,False
+46,,241,server_RAST,Co-activator of prophage gene expression IbrA,"1,357,327","1,358,631","1,305",,,,False
+47,,241,server_RAST,Co-activator of prophage gene expression IbrB,"1,356,788","1,357,330",543,,,,False
+48,Cola,CP003346,server_RAST,Phage tail sheath protein FI gene,"4,267,250","4,269,331","2,082",,,,False
+49,,CP003346,server_RAST,Putative phage-encoded peptidoglycan binding protein gene,"4,242,587","4,243,408",822,,,,False
+50,,CP003346,server_RAST,Phage T7 exclusion protein gene,"1,558,503","1,560,362","1,860",,,,False
+51,,CP003346,server_RAST,Phage T7 exclusion protein associated hypothetical protein gene,"1,557,674","1,558,501",828,,,,False
+52,,CP003346,server_RAST,Phage tail fiber protein gene,"489,384","490,346",963,,,,False
+53,Cup4G11,NZ_CP010536,server_RAST,Phage integrase gene,"4,323,202","4,323,603",402,,,,False
+54,,NZ_CP010536,server_RAST,putative phage integrase gene,"4,036,220","4,037,602","1,383",,,,True
+55,,NZ_CP010536,server_RAST,"Phage terminase, small subunit gene","2,630,788","2,631,216",429,,,,False
+56,,NZ_CP010536,server_RAST,Phage endolysin gene,"2,176,226","2,176,498",273,,,,False
+57,,NZ_CP010537,server_RAST,Phage-related integrase gene,"1,934,973","1,936,169","1,197",,,,False
+58,,NZ_CP010536,server_RAST,Phage-related capsid packaging protein gene,"1,813,799","1,814,854","1,056",,,,True
+59,,NZ_CP010536,server_RAST,"Phage terminase, ATPase subunit gene","1,812,024","1,813,802","1,779",,,,True
+60,,NZ_CP010536,server_RAST,Phage capsid scaffolding protein gene,"1,811,063","1,811,881",819,,,,True
+61,,NZ_CP010536,server_RAST,Phage major capsid protein gene,"1,810,007","1,811,014","1,008",,,,True
+62,,NZ_CP010536,server_RAST,"Phage terminase, endonuclease subunit gene","1,809,288","1,810,010",723,,,,True
+63,,NZ_CP010536,server_RAST,Phage head completion-stabilization protein gene,"1,808,725","1,809,192",468,,,,True
+64,,NZ_CP010536,server_RAST,elements of external origin; phage-related functions and prophages gene,"1,807,810","1,808,121",312,,,,True
+65,,NZ_CP010536,server_RAST,Putative phage-encoded peptidoglycan binding protein gene,"1,807,007","1,807,813",807,,,,True
+66,,NZ_CP010536,server_RAST,Phage tail protein gene,"1,806,064","1,806,504",441,,,,True
+67,,NZ_CP010536,server_RAST,Phage tail completion protein gene,"1,805,621","1,806,067",447,,,,True
+68,,NZ_CP010536,server_RAST,Phage baseplate assembly protein gene,"1,804,363","1,804,725",363,,,,True
+69,,NZ_CP010536,server_RAST,Phage tail sheath monomer gene,"1,799,327","1,800,499","1,173",,,,True
+70,,NZ_CP010536,server_RAST,Phage major tail tube protein gene,"1,798,795","1,799,304",510,,,,True
+71,,NZ_CP010536,server_RAST,elements of external origin; phage-related functions and prophages gene,"1,798,423","1,798,752",330,,,,True
+72,,NZ_CP010536,server_RAST,Phage tail length tape-measure protein gene,"1,795,647","1,798,328","2,682",,,,True
+73,,NZ_CP010536,server_RAST,Phage-related tail protein gene,"1,795,219","1,795,644",426,,,,True
+74,,NZ_CP010536,server_RAST,elements of external origin; phage-related functions and prophages gene,"1,789,025","1,789,273",249,,,,True
+75,,NZ_CP010536,server_RAST,Phage Rha protein gene,"1,788,367","1,788,915",549,,,,True
+76,,NZ_CP010536,server_RAST,Phage-related protein gene,"1,785,641","1,788,346","2,706",,,,True
+77,,NZ_CP010536,server_RAST,Phage endolysin gene,"1,775,743","1,776,288",546,,,,True
+78,,NZ_CP010536,server_RAST,Putative phage terminase gene,"1,747,716","1,749,002","1,287",,,,False
+79,,NZ_CP010536,server_RAST,Phage repressor gene,"1,736,102","1,737,148","1,047",,,,True
+80,,NZ_CP010536,server_RAST,Phage-related protein gene,"1,719,637","1,720,380",744,,,,True
+81,,NZ_CP010536,server_RAST,phage tail assembly-like protein gene,"1,485,846","1,486,364",519,,,,True
+82,Dino,"57,145",server_RAST,Phage-related protein gene,"3,594,961","3,596,388","1,428",,,,False
+83,,"57,145",server_RAST,Phage-related integrase gene,"3,379,874","3,381,040","1,167",,,,False
+84,,"57,145",server_RAST,Mu-like prophage I protein gene,"3,220,290","3,220,997",708,,,,False
+85,,"57,145",server_RAST,Phage integrase family protein gene,"2,756,272","2,756,904",633,,,,False
+86,,"57,145",server_RAST,Phage tail sheath protein FI gene,"2,727,753","2,730,098","2,346",,,,False
+87,,"57,145",server_RAST,"Site-specific recombinase, phage integrase family gene","2,675,127","2,675,798",672,,,,False
+88,,"57,145",server_RAST,Phage tail sheath protein FI gene,"2,616,568","2,618,061","1,494",,,,False
+89,,"57,145",server_RAST,Gene Transfer Agent capsid protein; Phage major capsid protein,"2,301,398","2,302,615","1,218",,,,False
+90,,"57,145",server_RAST,Phage related integrase gene,"1,989,215","1,990,372","1,158",,,,False
+91,,"57,145",server_RAST,Phage related integrase gene,"1,007,057","1,008,169","1,113",,,,False
+92,,"57,145",server_RAST,Phage-related integrase Mvan 5938 gene,"100,305","101,309","1,005",,,,False
+93,,"57,145",server_RAST,Phage major capsid protein gene,"93,348","94,247",900,,,,False
+94,,"57,145",server_RAST,Mu-like prophage I protein gene,"92,411","93,343",933,,,,False
+95,,"57,148",server_RAST,Phage-related integrase Mvan 5938 gene,"70,272","71,276","1,005",,,,False
+96,Dyella79,N515DRAFT_scaffold00001.1,server_RAST,Phage tail sheath protein FI gene,"1,040,733","1,042,121","1,389",,,,False
+97,,N515DRAFT_scaffold00001.1,server_RAST,Phage tail fiber protein gene,"887,760","888,884","1,125",,,,False
+98,,N515DRAFT_scaffold00001.1,server_RAST,Phage tail fiber protein gene,"884,516","887,689","3,174",,,,False
+99,,N515DRAFT_scaffold00001.1,server_RAST,Phage tail assembly protein I gene,"883,803","884,453",651,,,,False
+100,,N515DRAFT_scaffold00001.1,server_RAST,Phage tail assembly protein gene,"881,618","882,370",753,,,,False
+101,,N515DRAFT_scaffold00001.1,server_RAST,Phage minor tail protein gene,"880,929","881,621",693,,,,False
+102,,N515DRAFT_scaffold00001.1,server_RAST,Phage minor tail protein gene,"880,657","880,932",276,,,,False
+103,,N515DRAFT_scaffold00001.1,server_RAST,Phage tail length tape-measure protein 1 gene,"876,972","880,604","3,633",,,,False
+104,,N515DRAFT_scaffold00001.1,server_RAST,Phage major capsid protein gene,"872,423","873,661","1,239",,,,False
+105,,N515DRAFT_scaffold00001.1,server_RAST,Prophage Clp protease-like protein gene,"871,572","872,426",855,,,,False
+106,,N515DRAFT_scaffold00001.1,server_RAST,Phage portal protein gene,"870,314","871,594","1,281",,,,False
+107,,N515DRAFT_scaffold00001.1,server_RAST,Phage terminase large subunit gene,"868,620","870,305","1,686",,,,False
+108,,N515DRAFT_scaffold00001.1,server_RAST,Phage-related protein gene,"834,649","835,305",657,,,,False
+109,,N515DRAFT_scaffold00003.3,server_RAST,Phage-related capsid packaging protein gene,"665,973","666,269",297,,,,False
+110,,N515DRAFT_scaffold00003.3,server_RAST,"phage recombinase, putative gene","640,112","641,743","1,632",,,,False
+111,,N515DRAFT_scaffold00005.5,server_RAST,Phage tail fiber protein gene,"166,382","167,464","1,083",,,,False
+112,,N515DRAFT_scaffold00005.5,server_RAST,Phage tail fiber protein gene,"158,653","161,820","3,168",,,,False
+113,,N515DRAFT_scaffold00005.5,server_RAST,Phage tail assembly protein I gene,"157,985","158,650",666,,,,False
+114,,N515DRAFT_scaffold00005.5,server_RAST,Phage tail assembly protein gene,"157,181","157,918",738,,,,False
+115,,N515DRAFT_scaffold00005.5,server_RAST,Phage minor tail protein gene,"156,474","157,184",711,,,,False
+116,,N515DRAFT_scaffold00005.5,server_RAST,Phage minor tail protein gene,"156,142","156,477",336,,,,False
+117,,N515DRAFT_scaffold00005.5,server_RAST,Phage tail length tape-measure protein gene,"154,914","156,149","1,236",,,,False
+118,,N515DRAFT_scaffold00008.8,server_RAST,Gifsy-2 prophage lysozyme( EC:3.2.1.17 ) gene,"63,143","64,918","1,775",,,,False
+119,,N515DRAFT_scaffold00015.15,server_RAST,Phage-related capsid packaging protein gene,"1,825","2,457",632,,,,False
+120,HerbieS,NC_014323,server_RAST,Phage baseplate assembly protein gene,"988,310","988,654",345,,,,True
+121,,NC_014323,server_RAST,phage baseplate assembly protein V gene,"988,651","989,295",645,,,,True
+122,,NC_014323,server_RAST,Phage baseplate gene,"216,307","217,431","1,125",,,,True
+123,,NC_014323,server_RAST,Phage capsid scaffolding protein gene,"994,790","995,632",843,,,,True
+124,,NC_014323,server_RAST,Phage head completion-stabilization protein gene,"992,399","992,890",492,,,,True
+125,,NC_014323,server_RAST,phage integrase gene,"970,186","971,163",978,,,,True
+126,,NC_014323,server_RAST,Phage lysin gene,"991,248","991,778",531,,,,True
+127,,NC_014323,server_RAST,Phage major capsid protein gene,"993,697","994,740","1,044",,,,True
+128,,NC_014323,server_RAST,Phage replication protein gene,"971,843","973,894","2,052",,,,True
+129,,NC_014323,server_RAST,Phage replication protein gene,"2,693,692","2,695,368","1,677",,,,False
+130,,NC_014323,server_RAST,Phage tail fiber protein gene,"985,020","986,753","1,734",,,,True
+131,,NC_014323,server_RAST,Phage tail fiber protein gene,"213,946","215,382","1,437",,,,False
+132,,NC_014323,server_RAST,Phage tail fibers gene,"986,762","987,232",471,,,,True
+133,,NC_014323,server_RAST,Phage tail length tape-measure protein gene,"978,604","981,228","2,625",,,,True
+134,,NC_014323,server_RAST,Phage tail length tape-measure protein gene,"225,634","227,973","2,340",,,,True
+135,,NC_014323,server_RAST,Phage tail sheath monomer gene,"229,013","230,455","1,443",,,,True
+136,,NC_014323,server_RAST,Phage tail sheath monomer gene,"982,298","983,473","1,176",,,,True
+137,,NC_014323,server_RAST,"Phage terminase, ATPase subunit gene","995,716","997,557","1,842",,,,True
+138,,NC_014323,server_RAST,"Phage terminase, endonuclease subunit gene","992,978","993,697",720,,,,True
+139,,NC_014323,server_RAST,Phage transposase gene,"233,271","235,088","1,818",,,,True
+140,,NC_014323,server_RAST,Phage-related baseplate assembly protein gene,"221,503","222,669","1,167",,,,True
+141,,NC_014323,server_RAST,Phage-related capsid packaging protein gene,"997,557","998,609","1,053",,,,True
+142,,NC_014323,server_RAST,phage-related hypothetical protein gene,"983,807","984,481",675,,,,True
+143,,NC_014323,server_RAST,phage-related tail protein gene,"989,779","990,234",456,,,,True
+144,,NC_014323,server_RAST,probable phage tail protein gene,"220,819","221,499",681,,,,True
+145,,NC_014323,server_RAST,putative phage baseplate protein gene,"222,666","223,091",426,,,,True
+146,,NC_014323,server_RAST,Putative phage tail core protein gene,"228,457","228,981",525,,,,True
+147,,NC_014323,server_RAST,putative phage tail protein gene,"990,243","990,728",486,,,,True
+148,,NC_014323,server_RAST,putative phage tail protein gene,"981,351","981,674",324,,,,True
+149,Koxy,NZ_CP020657,server_RAST,Prophage CP4-57 regulatory protein alpA gene,"4,528,152","4,528,361",210,,,,True
+150,,NZ_CP020657,server_RAST,Stationary phase inducible protein CsiE gene,"4,435,617","4,436,894","1,278",,,,False
+151,,NZ_CP020657,server_RAST,Phage integrase gene,"3,295,716","3,296,996","1,281",,,,True
+152,,NZ_CP020657,server_RAST,Phage-related protein gene,"3,294,329","3,295,048",720,,,,True
+153,,NZ_CP020657,server_RAST,"Phage essential recombination function protein, Erf gene","3,292,023","3,292,805",783,,,,True
+154,,NZ_CP020657,server_RAST,"COG4197: Uncharacterized protein conserved in bacteria, prophage-related gene","3,287,137","3,287,370",234,,,,True
+155,,NZ_CP020657,server_RAST,Phage protein gene,"3,273,317","3,273,796",480,,,,True
+156,,NZ_CP020657,server_RAST,Phage Rha protein gene,"3,261,710","3,262,429",720,,,,True
+157,,NZ_CP020657,server_RAST,Phage Rha protein gene,"3,260,869","3,261,642",774,,,,True
+158,,NZ_CP020657,server_RAST,Phage tail length tape-measure protein 1 gene,"3,256,952","3,259,612","2,661",,,,True
+159,,NZ_CP020657,server_RAST,Putative prophage membrane protein gene,"2,658,712","2,659,104",393,,,,False
+160,,NZ_CP020657,server_RAST,putative phage repressor gene,"2,657,117","2,657,845",729,,,,False
+161,,NZ_CP020657,server_RAST,Gifsy-2 prophage protein gene,"2,592,527","2,592,838",312,,,,True
+162,,NZ_CP020657,server_RAST,Phage tail length tape-measure protein 1 gene,"2,570,941","2,574,228","3,288",,,,True
+163,,NZ_CP020657,server_RAST,Putative phage terminase gene,"2,559,721","2,560,989","1,269",,,,True
+164,,NZ_CP020657,server_RAST,Putative prophage membrane protein gene,"2,552,135","2,552,524",390,,,,True
+165,,NZ_CP020657,server_RAST,Gifsy-2 prophage protein gene,"2,533,071","2,534,186","1,116",,,,True
+166,,NZ_CP020657,server_RAST,Phage-related protein gene,"2,531,971","2,532,690",720,,,,True
+167,,NZ_CP020657,server_RAST,FIG107037: Phage late gene regulator,"1,971,932","1,972,147",216,,,,True
+168,,NZ_CP020657,server_RAST,putative phage tail protein gene,"1,970,288","1,970,773",486,,,,True
+169,,NZ_CP020657,server_RAST,putative phage tail protein gene,"1,967,238","1,967,537",300,,,,True
+170,,NZ_CP020657,server_RAST,Phage major tail tube protein gene,"1,966,670","1,967,185",516,,,,True
+171,,NZ_CP020657,server_RAST,Phage tail sheath monomer gene,"1,965,488","1,966,660","1,173",,,,True
+172,,NZ_CP020657,server_RAST,Phage baseplate assembly protein gene,"1,959,504","1,959,866",363,,,,True
+173,,NZ_CP020657,server_RAST,Phage tail completion protein gene,"1,958,420","1,958,866",447,,,,True
+174,,NZ_CP020657,server_RAST,Phage-related tail protein gene,"1,957,996","1,958,427",432,,,,True
+175,,NZ_CP020657,server_RAST,Prophage lysozyme (EC 3.2.1.17); Phage lysin gene,"1,956,578","1,957,087",510,,,,True
+176,,NZ_CP020657,server_RAST,Phage tail protein gene,"1,956,175","1,956,378",204,,,,True
+177,,NZ_CP020657,server_RAST,Phage head completion-stabilization protein gene,"1,955,711","1,956,175",465,,,,True
+178,,NZ_CP020657,server_RAST,"Phage terminase, endonuclease subunit gene","1,954,962","1,955,615",654,,,,True
+179,,NZ_CP020657,server_RAST,Phage major capsid protein gene,"1,953,906","1,954,958","1,053",,,,True
+180,,NZ_CP020657,server_RAST,Phage capsid scaffolding protein gene,"1,953,056","1,953,889",834,,,,True
+181,,NZ_CP020657,server_RAST,"Phage terminase, ATPase subunit gene","1,951,152","1,952,906","1,755",,,,True
+182,,NZ_CP020657,server_RAST,Phage-related capsid packaging protein gene,"1,950,127","1,951,152","1,026",,,,True
+183,,NZ_CP020657,server_RAST,Phage replication protein gene,"1,946,108","1,948,519","2,412",,,,True
+184,,NZ_CP020657,server_RAST,Phage-related protein gene,"1,945,101","1,946,111","1,011",,,,True
+185,,NZ_CP020657,server_RAST,Probable bacteriophage integrase gene,"1,939,457","1,940,503","1,047",,,,True
+186,,NZ_CP020657,server_RAST,Co-activator of prophage gene expression IbrA,"1,684,114","1,685,337","1,224",,,,False
+187,,NZ_CP020657,server_RAST,Co-activator of prophage gene expression IbrB,"1,683,500","1,684,129",630,,,,False
+188,,NZ_CP020657,server_RAST,Probable RND efflux membrane fusion protein gene,"1,584,596","1,585,675","1,080",,,,False
+189,,NZ_CP020657,server_RAST,"Phage integrase, Phage P4-associated gene","1,223,637","1,224,821","1,185",,,,True
+190,,NZ_CP020657,server_RAST,FIG054316: Phage polarity suppression protein gene,"1,219,812","1,220,378",567,,,,True
+191,,NZ_CP020657,server_RAST,FIG107037: Phage late gene regulator,"1,219,549","1,219,794",246,,,,True
+192,,NZ_CP020657,server_RAST,FIG070121: Phage capsid and scaffold protein gene,"1,218,815","1,219,552",738,,,,True
+193,,NZ_CP020657,server_RAST,FIG033266: Phage DNA binding protein gene,"1,217,997","1,218,263",267,,,,True
+194,,NZ_CP020657,server_RAST,FIG118045: Phage immunity repressor protein gene,"1,217,449","1,217,643",195,,,,True
+195,,NZ_CP020657,server_RAST,"FIG018226: DNA replication protein, phage-associated gene","1,216,908","1,217,228",321,,,,True
+196,,NZ_CP020657,server_RAST,"Zinc binding domain / DNA primase (EC 2.7.7.-), Phage P4-associated / Replicative helicase RepA, Phage P4-associated gene","1,214,563","1,216,896","2,334",,,,True
+197,,NZ_CP020657,server_RAST,Co-activator of prophage gene expression IbrB,"778,625","779,251",627,,,,False
+198,,NZ_CP020657,server_RAST,Co-activator of prophage gene expression IbrA,"777,414","778,625","1,212",,,,False
+199,,NZ_CP020657,server_RAST,"Zinc binding domain / DNA primase (EC 2.7.7.-), Phage P4-associated / Replicative helicase RepA, Phage P4-associated gene","657,719","660,052","2,334",,,,True
+200,,NZ_CP020657,server_RAST,"FIG018226: DNA replication protein, phage-associated gene","657,387","657,707",321,,,,True
+201,,NZ_CP020657,server_RAST,FIG118045: Phage immunity repressor protein gene,"656,972","657,166",195,,,,True
+202,,NZ_CP020657,server_RAST,FIG033266: Phage DNA binding protein gene,"656,346","656,612",267,,,,True
+203,,NZ_CP020657,server_RAST,FIG070121: Phage capsid and scaffold protein gene,"655,058","655,795",738,,,,True
+204,,NZ_CP020657,server_RAST,FIG107037: Phage late gene regulator,"654,816","655,061",246,,,,True
+205,,NZ_CP020657,server_RAST,FIG054316: Phage polarity suppression protein gene,"654,232","654,798",567,,,,True
+206,,NZ_CP020657,server_RAST,"Phage integrase, Phage P4-associated gene","648,675","649,937","1,263",,,,True
+207,,NZ_CP020657,server_RAST,Phage antitermination protein N gene,"2,658,273","2,658,635",363,,,,False
+208,,NZ_CP020657,server_RAST,putative bacteriophage protein gene,"2,549,631","2,550,011",381,,,,True
+209,,NZ_CP020657,server_RAST,putative bacteriophage protein gene,"1,967,552","1,967,671",120,,,,True
+210,Kang,B158DRAFT_scaffold_0.1,server_RAST,Phage tail fiber protein gene,"702,677","704,278","1,602",,,,False
+211,,B158DRAFT_scaffold_0.1,server_RAST,Protein affecting phage T7 exclusion by the F plasmid gene,"145,682","146,206",525,,,,False
+212,Keio,NC_000913,refseq_RAST,KpLE2 phage-like element; predicted protein (pseudogene),"4,506,626","4,506,883",258,,,,False
+213,,NC_000913,refseq_RAST,Prophage P4 integrase gene,"4,496,750","4,497,940","1,191",,,,False
+214,,NC_000913,refseq_RAST,Prophage CP4-57 regulatory protein alpA gene,"2,758,644","2,758,856",213,,,,False
+215,,NC_000913,refseq_RAST,Prophage CP4-57 integrase gene,"2,756,159","2,757,400","1,242",,,,False
+216,,NC_000913,refseq_RAST,CPZ-55 prophage; predicted protein gene,"2,563,980","2,564,372",393,,,,False
+217,,NC_000913,refseq_RAST,CPZ-55 prophage; predicted protein gene,"2,563,592","2,563,969",378,,,,False
+218,,NC_000913,refseq_RAST,putative prophage integrase gene,"2,558,771","2,560,066","1,296",,,,False
+219,,NC_000913,refseq_RAST,Prophage tail fiber protein gene,"2,471,544","2,472,137",594,,,,False
+220,,NC_000913,refseq_RAST,Phage integrase gene,"2,466,509","2,467,702","1,194",,,,False
+221,,NC_000913,refseq_RAST,prophage p2 ogr protein gene,"2,167,302","2,167,556",255,,,,False
+222,,NC_000913,refseq_RAST,Gifsy-2 prophage protein gene,"2,009,821","2,010,489",669,,,,False
+223,,7023,server_RAST,putative regulator; Regulation (Phage or Prophage Related) gene,"1,645,958","1,646,365",408,,,,True
+224,,7023,server_RAST,Putative regulator of cell division encoded by prophage CP-933O gene,"1,645,644","1,645,874",231,,,,True
+225,,7023,server_RAST,"IS, phage, Tn; Transposon-related functions gene","1,643,143","1,643,298",156,,,,True
+226,,7023,server_RAST,Phage antitermination protein gene,"1,640,513","1,641,265",753,,,,True
+227,,7023,server_RAST,Phage lysis protein S gene,"1,638,394","1,638,600",207,,,,True
+228,,7023,server_RAST,Phage endolysin gene,"1,637,548","1,638,081",534,,,,True
+229,,7023,server_RAST,Phage tail fiber protein gene,"1,632,909","1,633,871",963,,,,True
+230,,7023,server_RAST,Phage tail fiber assembly protein gene,"1,632,334","1,632,909",576,,,,True
+231,,7023,server_RAST,Phage tail fiber assembly protein gene,"1,430,435","1,431,010",576,,,,True
+232,,7023,server_RAST,Phage tail fiber protein gene,"1,428,438","1,430,435","1,998",,,,True
+233,,7023,server_RAST,Phage tail fiber protein gene,"1,428,343","1,428,477",135,,,,True
+234,,7023,server_RAST,Phage tail fiber protein gene,"1,427,570","1,428,307",738,,,,True
+235,,7023,server_RAST,Putative phage tail protein gene,"1,424,478","1,425,506","1,029",,,,True
+236,,7023,server_RAST,Rac prophage repressor gene,"1,417,789","1,418,265",477,,,,True
+237,,7023,server_RAST,Phage protein gene,"1,417,346","1,417,480",135,,,,True
+238,,7023,server_RAST,"IS, phage, Tn; Transposon-related functions gene","1,417,180","1,417,335",156,,,,True
+239,,7023,server_RAST,Putative bacteriophage protein gene,"1,415,862","1,416,038",177,,,,True
+240,,7023,server_RAST,Phage protein gene,"1,415,512","1,415,787",276,,,,True
+241,,7023,server_RAST,Recombinational DNA repair protein RecT (prophage associated) gene,"1,412,008","1,412,817",810,,,,True
+242,,7023,server_RAST,Phage protein gene,"1,411,555","1,411,764",210,,,,True
+243,,7023,server_RAST,Putative lambdoid prophage Rac integrase gene,"1,410,024","1,411,259","1,236",,,,True
+244,,7023,server_RAST,Phage DNA invertase gene,"1,208,908","1,209,462",555,,,,True
+245,,7023,server_RAST,Prophage tail fiber protein gene,"1,208,342","1,208,878",537,,,,True
+246,,7023,server_RAST,Phage tail fiber assembly protein gene,"1,207,740","1,208,342",603,,,,True
+247,,7023,server_RAST,Phage tail fiber assembly protein gene,"1,207,343","1,207,768",426,,,,True
+248,,7023,server_RAST,Prophage tail fiber protein gene,"1,206,724","1,207,353",630,,,,True
+249,,7023,server_RAST,FIG121501: Prophage tail protein gene,"1,206,136","1,206,720",585,,,,True
+250,,7023,server_RAST,Phage FluMu protein gp47 gene,"1,205,396","1,206,145",750,,,,True
+251,,7023,server_RAST,Phage portal protein gene,"1,204,954","1,205,427",474,,,,True
+252,,7023,server_RAST,"Phage terminase, large subunit gene","1,203,393","1,204,760","1,368",,,,True
+253,,7023,server_RAST,putative phage repressor gene,"1,201,482","1,202,156",675,,,,True
+254,,7023,server_RAST,Phage integrase gene,"1,198,902","1,200,029","1,128",,,,True
+255,,7023,server_RAST,Co-activator of prophage gene expression IbrA,"634,572","635,792","1,221",,,,False
+256,,7023,server_RAST,Co-activator of prophage gene expression IbrB,"633,970","634,599",630,,,,False
+257,,7023,server_RAST,Phage tail fiber assembly protein gene,"582,098","582,283",186,,,,True
+258,,7023,server_RAST,"Phage terminase, large subunit gene","580,577","581,320",744,,,,True
+259,,7023,server_RAST,Phage holin gene,"576,621","576,836",216,,,,True
+260,,7023,server_RAST,Phage exonuclease (EC 3.1.11.3); Putative phage-encoded enzyme involved in integration-recombination gene,"565,321","565,584",264,,,,True
+261,,7023,server_RAST,Phage integrase gene,"564,038","565,201","1,164",,,,True
+262,,7023,server_RAST,YbbL ABC transporter ATP-binding protein gene,"515,143","515,820",678,,,,False
+263,,7023,server_RAST,putative phage integrase gene,"294,920","296,245","1,326",,,,False
+264,Korea,NZ_BCYW01000001,refseq_RAST,Phage tail sheath monomer gene,"387,202","388,341","1,140",,,,False
+265,,NZ_BCYW01000001,refseq_RAST,Phage baseplate assembly protein gene,"386,835","387,191",357,,,,False
+266,,NZ_BCYW01000001,refseq_RAST,Phage tail fibers gene,"380,489","381,151",663,,,,False
+267,,NZ_BCYW01000001,refseq_RAST,Phage tail protein gene,"378,579","379,055",477,,,,False
+268,,NZ_BCYW01000001,refseq_RAST,"Phage terminase, endonuclease subunit gene","377,017","377,766",750,,,,False
+269,,NZ_BCYW01000001,refseq_RAST,Phage major capsid protein gene,"375,760","376,887","1,128",,,,False
+270,,NZ_BCYW01000001,refseq_RAST,Phage capsid scaffolding protein gene,"374,876","375,715",840,,,,False
+271,,NZ_BCYW01000001,refseq_RAST,"Phage terminase, ATPase subunit gene","372,810","374,717","1,908",,,,False
+272,,NZ_BCYW01000001,refseq_RAST,Phage-related capsid packaging protein gene,"371,728","372,798","1,071",,,,False
+273,,NZ_BCYW01000001,refseq_RAST,Phage DNA Packaging Protein gene,"360,906","362,243","1,338",,,,False
+274,,NZ_BCYW01000001,refseq_RAST,Phage portal protein gene,"357,118","358,230","1,113",,,,False
+275,,NZ_BCYW01000001,refseq_RAST,putative phage integrase gene,"164,026","165,369","1,344",,,,False
+276,Marino,CP001978,server_RAST,Phage integrase family protein gene,"4,401,144","4,401,758",615,,,,False
+277,,CP001978,server_RAST,"Phage terminase, large subunit gene","2,084,180","2,086,144","1,965",,,,True
+278,,CP001978,server_RAST,Phage-related protein gene,"707,871","708,542",672,,,,False
+279,,CP001978,server_RAST,phage protein gene,"706,032","706,253",222,,,,False
+280,,CP001978,server_RAST,"Phage terminase, large subunit gene","692,685","694,646","1,962",,,,True
+281,,CP001978,server_RAST,Phage baseplate assembly protein gene,"685,549","685,887",339,,,,True
+282,,CP001978,server_RAST,Phage tail fiber protein gene,"677,783","679,219","1,437",,,,True
+283,,CP001978,server_RAST,Phage tail sheath monomer gene,"675,391","676,908","1,518",,,,True
+284,,CP001978,server_RAST,Phage tail length tape-measure protein gene,"672,672","674,426","1,755",,,,True
+285,,CP001978,server_RAST,Recombinational DNA repair protein RecT (prophage associated) gene,"135,718","136,674",957,,,,False
+286,,NC_017507,refseq_RAST,"site-specific recombinase, phage integrase family gene","117,532","118,788","1,257",,,,False
+287,,NC_017506,refseq_RAST,Phage integrase gene,"88,466","89,674","1,209",,,,False
+288,Miya,NC_011769,refseq_RAST,"molybdenum-pterin binding domain protein/site-specific recombinase, phage integrase family gene","3,556,769","3,557,857","1,089",,,,False
+289,,NC_011769,refseq_RAST,"molybdenum-pterin binding domain protein/site-specific recombinase, phage integrase family gene","3,122,330","3,123,688","1,359",,,,False
+290,,254340,server_RAST,"phage terminase, small subunit, putative gene","2,036,658","2,037,131",474,,,,True
+291,,254340,server_RAST,Phage terminase large subunit gene,"2,034,968","2,036,359","1,392",,,,True
+292,,254340,server_RAST,Phage portal protein gene,"2,033,742","2,034,968","1,227",,,,True
+293,,254340,server_RAST,"phage prohead protease, HK97 family gene","2,033,054","2,033,755",702,,,,True
+294,,254340,server_RAST,Phage major capsid protein gene,"2,031,821","2,033,041","1,221",,,,True
+295,,254340,server_RAST,Phage Rha protein gene,"2,026,839","2,027,723",885,,,,True
+296,,254340,server_RAST,Phage tail fiber protein gene,"2,018,379","2,021,186","2,808",,,,True
+297,,254340,server_RAST,Phage tail fiber assembly protein gene,"1,595,784","1,596,242",459,,,,False
+298,,254340,server_RAST,Phage-related tail protein gene,"1,587,062","1,589,407","2,346",,,,False
+299,,254340,server_RAST,Phage protein gene,"1,577,634","1,578,614",981,,,,False
+300,,254340,server_RAST,Phage (Mu-like) virion morphogenesis protein,"1,576,192","1,577,493","1,302",,,,False
+301,,254340,server_RAST,Mu-like prophage FluMu protein gp29 gene,"1,574,616","1,576,190","1,575",,,,False
+302,,254340,server_RAST,Mu-like prophage FluMu protein gp28 gene,"1,571,281","1,572,762","1,482",,,,False
+303,,254340,server_RAST,Phage Mu Mom-like protein gene,"900,247","900,882",636,,,,True
+304,,254340,server_RAST,Phage tail fiber assembly protein gene,"899,136","899,693",558,,,,True
+305,,254340,server_RAST,Prophage tail fiber protein gene,"897,835","899,127","1,293",,,,True
+306,,254340,server_RAST,FIG121501: Prophage tail protein gene,"897,222","897,791",570,,,,True
+307,,254340,server_RAST,Phage FluMu protein gp47 gene,"896,164","897,225","1,062",,,,True
+308,,254340,server_RAST,Prophage baseplate assembly protein V gene,"893,653","894,279",627,,,,True
+309,,254340,server_RAST,FIG003269: Prophage tail protein gene,"892,395","893,495","1,101",,,,True
+310,,254340,server_RAST,Phage tail/DNA circulation protein gene,"891,065","892,405","1,341",,,,True
+311,,254340,server_RAST,FIG035595: Phage protein gene,"889,104","891,044","1,941",,,,True
+312,,254340,server_RAST,Bacteriophage tail sheath protein gene,"886,626","888,047","1,422",,,,True
+313,,254340,server_RAST,Mu-like prophage FluMu protein gp37 gene,"885,814","886,434",621,,,,True
+314,,254340,server_RAST,Mu-like prophage protein GP36 gene,"885,398","885,817",420,,,,True
+315,,254340,server_RAST,Phage major capsid protein gene,"884,040","884,969",930,,,,True
+316,,254340,server_RAST,Mu-like prophage FluMu I protein gene,"882,852","884,036","1,185",,,,True
+317,,254340,server_RAST,phage virion morphogenesis protein,"880,672","881,154",483,,,,False
+318,,254340,server_RAST,Mu-like prophage FluMu protein gp29 gene,"877,343","879,001","1,659",,,,True
+319,,254340,server_RAST,Phage protein gene,"875,692","877,368","1,677",,,,True
+320,,254340,server_RAST,phage-related membrane protein gene,"872,838","873,209",372,,,,True
+321,,254340,server_RAST,"prophage MuSo1, DNA transposition protein, putative gene","868,040","868,822",783,,,,True
+322,MR-1,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","4,450,957","4,451,211",255,,,,False
+323,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","4,450,457","4,450,846",390,,,,False
+324,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","4,434,299","4,435,180",882,,,,False
+325,,139,server_RAST,phage integrase family protein gene,"4,030,630","4,031,562",933,,,,False
+326,,139,server_RAST,phage integrase family protein gene,"4,012,940","4,014,214","1,275",,,,False
+327,,139,server_RAST,phage integrase family protein gene,"3,124,990","3,126,249","1,260",,,,True
+328,,139,server_RAST,Phage-related protein gene,"3,119,217","3,119,888",672,,,,True
+329,,139,server_RAST,"prophage LambdaSo, transcriptional regulator, Cro/CI family gene","3,113,660","3,114,478",819,,,,True
+330,,139,server_RAST,"prophage LambdaSo, replication protein O gene","3,111,160","3,112,230","1,071",,,,True
+331,,139,server_RAST,phage integrase family protein gene,"3,106,800","3,107,999","1,200",,,,True
+332,,139,server_RAST,"prophage LambdaSo, lysozyme, putative gene","3,104,244","3,104,756",513,,,,True
+333,,139,server_RAST,Phage terminase small subunit gene,"3,101,977","3,102,489",513,,,,True
+334,,139,server_RAST,Phage terminase small subunit gene,"3,100,275","3,102,020","1,746",,,,True
+335,,139,server_RAST,Phage portal protein gene,"3,098,819","3,100,117","1,299",,,,True
+336,,139,server_RAST,Prophage Clp protease-like protein gene,"3,097,955","3,098,809",855,,,,True
+337,,139,server_RAST,Phage major capsid protein gene,"3,096,752","3,097,942","1,191",,,,True
+338,,139,server_RAST,"phage head-tail adaptor, putative gene","3,095,699","3,096,061",363,,,,True
+339,,139,server_RAST,"prophage LambdaSo, major tail protein V, putative gene","3,094,063","3,094,536",474,,,,True
+340,,139,server_RAST,Phage tail length tape-measure protein 1 gene,"3,090,474","3,093,218","2,745",,,,True
+341,,139,server_RAST,Phage minor tail protein gene,"3,090,139","3,090,474",336,,,,True
+342,,139,server_RAST,Phage minor tail protein gene,"3,086,611","3,087,336",726,,,,True
+343,,139,server_RAST,Phage tail assembly protein gene,"3,085,846","3,086,559",714,,,,True
+344,,139,server_RAST,Phage tail assembly gene,"3,082,148","3,083,743","1,596",,,,True
+345,,139,server_RAST,Phage tail assembly protein gene,"3,081,823","3,082,080",258,,,,True
+346,,139,server_RAST,Phage tail assembly protein I gene,"3,080,473","3,081,102",630,,,,True
+347,,139,server_RAST,Phage tail fiber protein gene,"3,076,443","3,080,468","4,026",,,,True
+348,,139,server_RAST,Prophage long tail fiber protein gene,"2,821,109","2,822,836","1,728",,,,False
+349,,139,server_RAST,FIG121501: Prophage tail protein gene,"2,820,459","2,821,043",585,,,,True
+350,,139,server_RAST,Phage FluMu protein gp47 gene,"2,819,407","2,820,474","1,068",,,,True
+351,,139,server_RAST,Prophage baseplate assembly protein V gene,"2,818,312","2,818,959",648,,,,True
+352,,139,server_RAST,FIG003269: Prophage tail protein gene,"2,817,239","2,818,318","1,080",,,,True
+353,,139,server_RAST,Phage tail/DNA circulation protein gene,"2,815,923","2,817,239","1,317",,,,True
+354,,139,server_RAST,Mu-like prophage FluMu protein gp42 gene,"2,814,240","2,815,901","1,662",,,,True
+355,,139,server_RAST,Mu-like prophage FluMu protein gp41 gene,"2,813,755","2,814,114",360,,,,True
+356,,139,server_RAST,Phage tail tube protein gene,"2,813,402","2,813,755",354,,,,True
+357,,139,server_RAST,Mu-like prophage FluMu protein GP38 gene,"2,811,737","2,811,901",165,,,,True
+358,,139,server_RAST,Mu-like prophage FluMu protein gp37 gene,"2,811,130","2,811,720",591,,,,True
+359,,139,server_RAST,"prophage MuSo2, virion morphogenesis protein, putative","2,810,582","2,811,133",552,,,,True
+360,,139,server_RAST,Mu-like prophage protein GP36 gene,"2,810,151","2,810,582",432,,,,True
+361,,139,server_RAST,Phage major capsid protein gene,"2,807,652","2,808,551",900,,,,True
+362,,139,server_RAST,COG4388: Mu-like prophage I protein gene,"2,806,693","2,807,652",960,,,,True
+363,,139,server_RAST,Phage (Mu-like) virion morphogenesis protein,"2,805,079","2,805,858",780,,,,True
+364,,139,server_RAST,Mu-like prophage FluMu protein gp29 gene,"2,803,521","2,805,086","1,566",,,,True
+365,,139,server_RAST,Mu-like prophage FluMu protein gp28 gene,"2,801,965","2,803,524","1,560",,,,True
+366,,139,server_RAST,"Phage terminase, small subunit gene","2,801,187","2,801,768",582,,,,True
+367,,139,server_RAST,"prophage MuSo1, transcriptional regulator, Cro/CI family gene","2,788,307","2,789,053",747,,,,False
+368,,139,server_RAST,phage integrase family protein gene,"2,486,058","2,487,167","1,110",,,,False
+369,,139,server_RAST,"Site-specific recombinase, phage integrase family gene","2,476,011","2,476,877",867,,,,False
+370,,139,server_RAST,"Site-specific recombinase, phage integrase family gene","2,474,344","2,474,784",441,,,,False
+371,,139,server_RAST,phage integrase family protein gene,"1,536,626","1,537,873","1,248",,,,False
+372,,139,server_RAST,phage integrase family protein gene,"1,509,199","1,509,765",567,,,,False
+373,,139,server_RAST,"phage transcriptional regulator, AlpA gene","1,504,686","1,504,898",213,,,,False
+374,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","1,501,303","1,501,746",444,,,,False
+375,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","1,497,975","1,498,763",789,,,,False
+376,,139,server_RAST,Phage major capsid protein gene,"693,403","694,323",921,,,,True
+377,,139,server_RAST,"prophage MuSo1, protein Gp32, putative gene","692,234","693,403","1,170",,,,True
+378,,139,server_RAST,phage virion morphogenesis protein,"688,258","688,710",453,,,,True
+379,,139,server_RAST,Phage (Mu-like) virion morphogenesis protein,"686,773","688,110","1,338",,,,True
+380,,139,server_RAST,Mu-like prophage FluMu protein gp29 gene,"685,179","686,780","1,602",,,,True
+381,,139,server_RAST,Mu-like prophage FluMu protein gp28 gene,"683,539","685,179","1,641",,,,True
+382,,139,server_RAST,"Phage terminase, small subunit gene","682,973","683,539",567,,,,True
+383,,139,server_RAST,"prophage MuSo1, positive regulator of late transcription, putative gene","676,577","677,032",456,,,,True
+384,,139,server_RAST,"prophage MuSo1, DNA transposition protein, putative gene","672,706","673,425",720,,,,True
+385,,139,server_RAST,"prophage MuSo1, transcriptional regulator, Cro/CI family gene","669,361","670,083",723,,,,True
+386,,139,server_RAST,"site-specific recombinase, phage integrase family gene","402,011","403,300","1,290",,,,False
+387,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","388,489","388,770",282,,,,False
+388,,139,server_RAST,"site-specific recombinase, phage integrase family, pseudogene","386,312","387,124",813,,,,False
+389,,139,server_RAST,Bacteriophage tail sheath protein gene,"2,811,904","2,813,385","1,482",,,,True
+390,,140,server_RAST,phage integrase family protein gene,"33,623","34,993","1,371",,,,True
+391,,140,server_RAST,phage integrase family protein gene,"32,496","33,626","1,131",,,,True
+392,Pedo557,NZ_CP021237,server_RAST,Phage tail fiber protein gene,"4,235,922","4,238,261","2,340",,,,True
+393,,NZ_CP021237,server_RAST,Phage tail fiber protein gene,"1,836,186","1,837,973","1,788",,,,False
+394,,NZ_CP021237,server_RAST,Phage tail sheath protein FI gene,"1,738,972","1,740,417","1,446",,,,True
+395,,NZ_CP021237,server_RAST,Phage tail sheath protein FI gene,"1,737,184","1,738,968","1,785",,,,False
+396,Phaeo,PGA1_c,server_RAST,"Phage lysin, glycosyl hydrolase, family 25 gene","3,133,093","3,133,932",840,,,,False
+397,,PGA1_c,server_RAST,Phage portal protein gene,"2,695,571","2,696,788","1,218",,,,False
+398,,PGA1_c,server_RAST,phage integrase gene,"2,349,595","2,350,626","1,032",,,,False
+399,,PGA1_c,server_RAST,possible phage integrase family protein gene,"2,341,533","2,342,780","1,248",,,,True
+400,,PGA1_c,server_RAST,Phage terminase large subunit gene,"2,328,102","2,329,865","1,764",,,,True
+401,,PGA1_c,server_RAST,Phage portal protein gene,"2,326,894","2,328,105","1,212",,,,True
+402,,PGA1_c,server_RAST,"Phage prohead protease, HK97 family gene","2,326,232","2,326,894",663,,,,True
+403,,PGA1_c,server_RAST,Phage major capsid protein gene,"2,324,993","2,326,195","1,203",,,,True
+404,,PGA1_c,server_RAST,phage integrase gene,"2,122,720","2,123,334",615,,,,False
+405,,PGA1_c,server_RAST,Phage protein D gene,"2,084,059","2,084,472",414,,,,False
+406,,PGA1_c,server_RAST,Phage integrase family protein gene,"2,016,906","2,017,220",315,,,,False
+407,,PGA1_c,server_RAST,phage integrase gene,"1,938,348","1,939,349","1,002",,,,True
+408,,PGA1_c,server_RAST,Phage-related protein gene,"1,924,856","1,925,443",588,,,,True
+409,,PGA1_c,server_RAST,"Phage terminase, large subunit gene","1,922,910","1,924,859","1,950",,,,True
+410,,PGA1_c,server_RAST,phage-related portal protein gene,"1,920,778","1,922,304","1,527",,,,True
+411,,PGA1_c,server_RAST,"peptidase U35, phage prohead HK97 gene","1,918,755","1,920,785","2,031",,,,True
+412,,PGA1_c,server_RAST,phage baseplate assembly protein V gene,"1,916,626","1,916,982",357,,,,True
+413,,PGA1_c,server_RAST,Phage baseplate assembly protein gene,"1,915,948","1,916,430",483,,,,True
+414,,PGA1_c,server_RAST,Phage tail sheath monomer gene,"1,910,578","1,911,795","1,218",,,,True
+415,,PGA1_c,server_RAST,Phage tail protein gene,"1,907,159","1,909,654","2,496",,,,True
+416,,PGA1_c,server_RAST,Phage-related tail protein gene,"1,906,749","1,907,147",399,,,,True
+417,,PGA1_c,server_RAST,FIG032563: Phage tail protein D gene,"1,905,561","1,906,568","1,008",,,,True
+418,,PGA1_c,server_RAST,Phage DNA Packaging Protein gene,"1,866,416","1,867,669","1,254",,,,False
+419,,PGA1_c,server_RAST,Phage portal protein gene,"1,865,029","1,866,222","1,194",,,,True
+420,,PGA1_c,server_RAST,"Phage prohead protease, HK97 family gene","1,864,165","1,864,785",621,,,,True
+421,,PGA1_c,server_RAST,Phage major capsid protein gene,"1,862,932","1,864,116","1,185",,,,True
+422,,PGA1_c,server_RAST,Phage Host Specificity Protein gene,"1,853,464","1,857,432","3,969",,,,True
+423,,PGA1_c,server_RAST,Gene Transfer Agent (GTA) ORFG07 / Bacteriophagehead-tail adaptor,"1,861,737","1,862,108",372,,,,True
+424,PS,CP003153,server_RAST,phage integrase family protein gene,"1,197,990","1,199,660","1,671",,,,False
+425,,CP003153,server_RAST,phage integrase family protein gene,"1,196,083","1,197,993","1,911",,,,False
+426,,CP003153,server_RAST,Phage long tail fiber proximal subunit gene,"214,590","215,081",492,,,,True
+427,,CP003153,server_RAST,"hypothetical protein, putative phage associated protein gene","197,537","199,060","1,524",,,,True
+428,,CP003153,server_RAST,"Phage terminase, large subunit gene","191,934","193,328","1,395",,,,True
+429,,CP003153,server_RAST,Phage-related protein gene,"175,067","175,741",675,,,,True
+430,pseudo1_N1B4,NZ_LUKJ01000003,refseq_RAST,Gifsy-2 prophage protein gene,"5,720,467","5,721,156",690,,,,False
+431,,NZ_LUKJ01000003,refseq_RAST,Bacteriophage tail sheath protein gene,"3,508,588","3,510,084","1,497",,,,False
+432,,NZ_LUKJ01000003,refseq_RAST,"Site-specific recombinase, phage integrase family gene","5,314,754","5,315,692",939,,,,False
+433,,NZ_LUKJ01000003,refseq_RAST,Prophage antirepressor gene,"3,818,182","3,818,727",546,,,,False
+434,,NZ_LUKJ01000003,refseq_RAST,Prophage Lp2 protein 6 gene,"3,667,401","3,668,486","1,086",,,,False
+435,,NZ_LUKJ01000003,refseq_RAST,Prophage tail fiber protein gene,"3,522,593","3,523,801","1,209",,,,False
+436,,NZ_LUKJ01000003,refseq_RAST,Prophage tail fiber protein gene,"3,521,143","3,522,039",897,,,,False
+437,,NZ_LUKJ01000003,refseq_RAST,Prophage tail fiber protein gene,"3,519,437","3,520,477","1,041",,,,False
+438,,NZ_LUKJ01000003,refseq_RAST,Prophage tail fiber protein gene,"3,517,639","3,518,787","1,149",,,,False
+439,,NZ_LUKJ01000003,refseq_RAST,FIG121501: Prophage tail protein gene,"3,517,028","3,517,627",600,,,,False
+440,,NZ_LUKJ01000003,refseq_RAST,Phage FluMu protein gp47 gene,"3,515,997","3,517,040","1,044",,,,False
+441,,NZ_LUKJ01000003,refseq_RAST,Prophage baseplate assembly protein V gene,"3,515,100","3,515,609",510,,,,False
+442,,NZ_LUKJ01000003,refseq_RAST,FIG003269: Prophage tail protein gene,"3,513,921","3,514,964","1,044",,,,False
+443,,NZ_LUKJ01000003,refseq_RAST,Phage tail/DNA circulation protein gene,"3,512,679","3,513,917","1,239",,,,False
+444,,NZ_LUKJ01000003,refseq_RAST,Phage tail length tape-measure protein gene,"3,510,920","3,512,692","1,773",,,,False
+445,,NZ_LUKJ01000003,refseq_RAST,Phage tail tube protein gene,"3,510,152","3,510,499",348,,,,False
+446,,NZ_LUKJ01000003,refseq_RAST,Mu-like prophage FluMu protein GP38 gene,"3,508,406","3,508,588",183,,,,False
+447,,NZ_LUKJ01000003,refseq_RAST,"FIG111678: IS, phage, Tn; Transposon-related functions gene","3,507,825","3,508,409",585,,,,False
+448,,NZ_LUKJ01000003,refseq_RAST,Gifsy-2 prophage protein gene,"3,302,243","3,302,866",624,,,,False
+449,,NZ_LUKJ01000003,refseq_RAST,Prophage antirepressor gene,"2,479,042","2,479,569",528,,,,False
+450,,NZ_LUKJ01000003,refseq_RAST,"Phage terminase, small subunit gene","360,466","360,834",369,,,,False
+451,,NZ_LUKJ01000001,refseq_RAST,Gifsy-2 prophage protein gene,"225,666","226,358",693,,,,False
+452,pseudo3_N2E3,CP012830,server_RAST,Gifsy-2 prophage protein gene,"6,010,439","6,011,152",714,,,,False
+453,,CP012830,server_RAST,Phage-related integrase gene,"5,991,412","5,992,434","1,023",,,,False
+454,,CP012830,server_RAST,"DNA primase, phage associated gene","5,983,157","5,985,373","2,217",,,,False
+455,,CP012830,server_RAST,"Phage DNA packaging protein, Nu1 subunit of terminase gene","5,981,282","5,981,806",525,,,,False
+456,,CP012830,server_RAST,"Phage terminase, large subunit gene","5,979,349","5,981,238","1,890",,,,True
+457,,CP012830,server_RAST,Phage baseplate assembly protein gene,"5,971,984","5,972,310",327,,,,True
+458,,CP012830,server_RAST,Phage tail fibers gene,"5,970,499","5,971,104",606,,,,True
+459,,CP012830,server_RAST,Phage tail fiber protein gene,"5,968,970","5,970,502","1,533",,,,True
+460,,CP012830,server_RAST,Phage tail sheath monomer gene,"5,967,234","5,968,400","1,167",,,,True
+461,,CP012830,server_RAST,Phage major tail tube protein gene,"5,966,718","5,967,221",504,,,,True
+462,,CP012830,server_RAST,FIG035595: Phage protein gene,"5,963,104","5,965,953","2,850",,,,True
+463,,CP012830,server_RAST,Phage protein U gene,"5,962,249","5,963,094",846,,,,True
+464,,CP012830,server_RAST,Phage tail protein gene,"5,962,068","5,962,241",174,,,,True
+465,,CP012830,server_RAST,Phage protein D gene,"5,960,924","5,961,970","1,047",,,,True
+466,,CP012830,server_RAST,Phage endolysin gene,"5,960,216","5,960,875",660,,,,True
+467,,CP012830,server_RAST,"Phage integrase:Phage integrase, N-terminal SAM-like gene","5,950,323","5,950,550",228,,,,True
+468,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"5,793,139","5,794,128",990,,,,True
+469,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"5,778,873","5,779,460",588,,,,True
+470,,CP012830,server_RAST,Phage protein gene,"5,769,730","5,770,815","1,086",,,,True
+471,,CP012830,server_RAST,probable phage protein YPO2110 gene,"5,767,942","5,768,907",966,,,,True
+472,,CP012830,server_RAST,phage-related conserved hypothetical protein gene,"5,767,071","5,767,574",504,,,,True
+473,,CP012830,server_RAST,phage-related conserved hypothetical protein gene,"5,766,683","5,767,054",372,,,,True
+474,,CP012830,server_RAST,probable phage protein YPO2116 gene,"5,764,117","5,764,770",654,,,,True
+475,,CP012830,server_RAST,Phage tail length tape-measure protein 1 gene,"5,760,162","5,763,419","3,258",,,,True
+476,,CP012830,server_RAST,putative phage protein gene,"5,759,824","5,760,162",339,,,,True
+477,,CP012830,server_RAST,Phage minor tail protein gene,"5,759,065","5,759,814",750,,,,True
+478,,CP012830,server_RAST,Phage tail assembly protein gene,"5,758,298","5,759,062",765,,,,False
+479,,CP012830,server_RAST,Phage tail assembly protein I gene,"5,753,448","5,754,056",609,,,,True
+480,,CP012830,server_RAST,Phage tail fiber protein gene,"5,749,686","5,753,243","3,558",,,,True
+481,,CP012830,server_RAST,Phage-related protein gene,"5,735,480","5,735,683",204,,,,True
+482,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"4,957,092","4,957,280",189,,,,False
+483,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"4,956,543","4,956,836",294,,,,False
+484,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"4,954,857","4,955,117",261,,,,False
+485,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"4,946,201","4,946,878",678,,,,False
+486,,CP012830,server_RAST,FIG032563: Phage tail protein D gene,"4,579,957","4,580,526",570,,,,True
+487,,CP012830,server_RAST,"Phage terminase, small subunit gene","4,166,347","4,166,709",363,,,,False
+488,,CP012830,server_RAST,Prophage tail fiber protein gene,"3,718,662","3,719,810","1,149",,,,True
+489,,CP012830,server_RAST,FIG121501: Prophage tail protein gene,"3,718,051","3,718,650",600,,,,True
+490,,CP012830,server_RAST,Phage FluMu protein gp47 gene,"3,717,023","3,718,063","1,041",,,,True
+491,,CP012830,server_RAST,Prophage baseplate assembly protein V gene,"3,716,126","3,716,635",510,,,,True
+492,,CP012830,server_RAST,FIG003269: Prophage tail protein gene,"3,714,979","3,716,019","1,041",,,,True
+493,,CP012830,server_RAST,Phage tail/DNA circulation protein gene,"3,713,737","3,714,975","1,239",,,,True
+494,,CP012830,server_RAST,Phage tail length tape-measure protein gene,"3,711,987","3,713,750","1,764",,,,True
+495,,CP012830,server_RAST,Phage tail tube protein gene,"3,711,216","3,711,563",348,,,,True
+496,,CP012830,server_RAST,Mu-like prophage FluMu protein GP38 gene,"3,709,471","3,709,653",183,,,,True
+497,,CP012830,server_RAST,"FIG111678: IS, phage, Tn; Transposon-related functions gene","3,708,890","3,709,474",585,,,,True
+498,,CP012830,server_RAST,FIG032563: Phage tail protein D gene,"3,707,737","3,708,765","1,029",,,,True
+499,,CP012830,server_RAST,Phage tail fibers gene,"3,700,368","3,700,898",531,,,,True
+500,,CP012830,server_RAST,Phage-related baseplate assembly protein gene,"3,698,658","3,699,653",996,,,,True
+501,,CP012830,server_RAST,Gifsy-2 prophage protein gene,"3,309,360","3,309,980",621,,,,False
+502,,CP012830,server_RAST,Prophage antirepressor gene,"1,992,600","1,993,127",528,,,,False
+503,,CP012830,server_RAST,Prophage antirepressor gene,"657,797","658,345",549,,,,False
+504,,CP012830,server_RAST,"Site-specific recombinase, phage integrase family gene","50,748","51,872","1,125",,,,False
+505,,CP012830,server_RAST,Phage-related protein gene,"47,010","49,703","2,694",,,,True
+506,,CP012830,server_RAST,Phage capsid and scaffold gene,"43,772","44,503",732,,,,True
+507,,CP012830,server_RAST,"Phage terminase, ATPase subunit gene","41,662","43,713","2,052",,,,True
+508,,CP012830,server_RAST,Phage capsid scaffolding protein gene,"40,584","41,498",915,,,,True
+509,,CP012830,server_RAST,Phage capsid protein gene,"39,563","40,582","1,020",,,,True
+510,,CP012830,server_RAST,Conserved hypothetical phage protein gene,"36,039","37,154","1,116",,,,True
+511,,CP012830,server_RAST,putative phage lysozyme gene,"34,524","35,051",528,,,,True
+512,,CP012830,server_RAST,Phage-related tail protein gene,"31,562","33,547","1,986",,,,True
+513,,CP012830,server_RAST,Phage tail fiber protein gene,"27,871","29,544","1,674",,,,True
+514,,CP012830,server_RAST,Bacteriophage tail sheath protein gene,"3,709,653","3,711,149","1,497",,,,True
+515,,CP012830,server_RAST,Putative bacteriophage protein gene,"30,076","31,251","1,176",,,,True
+516,pseudo5_N2C3,CP012831,server_RAST,Bacteriophage tail sheath protein gene,"1,282,269","1,283,765","1,497",,,,True
+517,,CP012831,server_RAST,Phage-related capsid packaging protein gene,"4,599,521","4,600,522","1,002",,,,True
+518,,CP012831,server_RAST,"Phage terminase, ATPase subunit gene","4,597,767","4,599,521","1,755",,,,True
+519,,CP012831,server_RAST,Phage capsid scaffolding protein gene,"4,596,798","4,597,628",831,,,,True
+520,,CP012831,server_RAST,Phage major capsid protein gene,"4,595,771","4,596,778","1,008",,,,True
+521,,CP012831,server_RAST,"Phage terminase, endonuclease subunit gene","4,595,062","4,595,760",699,,,,True
+522,,CP012831,server_RAST,Phage tail protein gene,"4,593,785","4,594,261",477,,,,True
+523,,CP012831,server_RAST,Phage baseplate assembly protein gene,"4,588,867","4,589,211",345,,,,True
+524,,CP012831,server_RAST,Phage tail fibers gene,"4,587,333","4,587,959",627,,,,True
+525,,CP012831,server_RAST,Phage tail fiber protein gene,"4,587,182","4,587,343",162,,,,True
+526,,CP012831,server_RAST,Phage tail fiber protein gene,"4,586,127","4,587,185","1,059",,,,True
+527,,CP012831,server_RAST,Phage tail sheath monomer gene,"4,583,645","4,584,814","1,170",,,,True
+528,,CP012831,server_RAST,Phage major tail tube protein gene,"4,583,106","4,583,621",516,,,,True
+529,,CP012831,server_RAST,Phage tail fibers gene,"4,582,750","4,583,079",330,,,,True
+530,,CP012831,server_RAST,Phage tail length tape-measure protein gene,"4,580,089","4,582,632","2,544",,,,True
+531,,CP012831,server_RAST,Phage tail protein gene,"4,579,642","4,580,082",441,,,,True
+532,,CP012831,server_RAST,Phage protein D gene,"4,578,395","4,579,645","1,251",,,,True
+533,,CP012831,server_RAST,Phage-related protein gene,"4,566,743","4,569,484","2,742",,,,True
+534,,CP012831,server_RAST,Phage integrase gene,"4,564,559","4,565,764","1,206",,,,True
+535,,CP012831,server_RAST,Prophage antirepressor gene,"4,194,310","4,194,819",510,,,,False
+536,,CP012831,server_RAST,Gifsy-2 prophage protein gene,"3,752,723","3,753,346",624,,,,False
+537,,CP012831,server_RAST,Phage-related baseplate assembly protein gene,"1,294,436","1,295,431",996,,,,True
+538,,CP012831,server_RAST,Prophage long tail fiber protein gene,"1,291,857","1,293,803","1,947",,,,True
+539,,CP012831,server_RAST,Phage tail length tape-measure protein gene,"1,286,408","1,288,588","2,181",,,,True
+540,,CP012831,server_RAST,P2-like prophage tail protein X gene,"1,285,820","1,286,032",213,,,,True
+541,,CP012831,server_RAST,FIG032563: Phage tail protein D gene,"1,284,794","1,285,810","1,017",,,,True
+542,,CP012831,server_RAST,"FIG111678: IS, phage, Tn; Transposon-related functions gene","1,283,944","1,284,528",585,,,,True
+543,,CP012831,server_RAST,Mu-like prophage FluMu protein GP38 gene,"1,283,765","1,283,947",183,,,,True
+544,,CP012831,server_RAST,Phage tail tube protein gene,"1,281,854","1,282,201",348,,,,True
+545,,CP012831,server_RAST,Phage tail length tape-measure protein gene,"1,279,856","1,281,430","1,575",,,,True
+546,,CP012831,server_RAST,Phage tail/DNA circulation protein gene,"1,278,631","1,279,869","1,239",,,,True
+547,,CP012831,server_RAST,FIG003269: Prophage tail protein gene,"1,277,587","1,278,627","1,041",,,,True
+548,,CP012831,server_RAST,Prophage baseplate assembly protein V gene,"1,276,823","1,277,332",510,,,,True
+549,,CP012831,server_RAST,Phage FluMu protein gp47 gene,"1,275,395","1,276,435","1,041",,,,True
+550,,CP012831,server_RAST,FIG121501: Prophage tail protein gene,"1,274,808","1,275,407",600,,,,True
+551,,CP012831,server_RAST,Prophage tail fiber protein gene,"1,273,634","1,274,797","1,164",,,,True
+552,,CP012831,server_RAST,Prophage tail fiber protein gene,"1,272,492","1,273,094",603,,,,True
+553,,CP012831,server_RAST,Phage tail fiber assembly protein gene,"1,271,458","1,272,177",720,,,,True
+554,,CP012831,server_RAST,Prophage tail fiber protein gene,"1,270,441","1,271,352",912,,,,True
+555,,CP012831,server_RAST,"Phage terminase, small subunit gene","725,724","726,098",375,,,,False
+556,,CP012831,server_RAST,"Site-specific recombinase, phage integrase family gene","465,839","466,990","1,152",,,,True
+557,,CP012831,server_RAST,Phage-related protein gene,"460,739","463,591","2,853",,,,True
+558,,CP012831,server_RAST,Phage tail protein gene,"454,827","455,267",441,,,,True
+559,,CP012831,server_RAST,Phage tail length tape-measure protein gene,"451,876","454,821","2,946",,,,True
+560,,CP012831,server_RAST,Phage major tail tube protein gene,"450,863","451,378",516,,,,True
+561,,CP012831,server_RAST,Phage tail sheath monomer gene,"449,637","450,806","1,170",,,,True
+562,,CP012831,server_RAST,Phage tail fiber protein gene,"447,704","449,089","1,386",,,,True
+563,,CP012831,server_RAST,Phage tail fibers gene,"447,090","447,707",618,,,,True
+564,,CP012831,server_RAST,Phage baseplate assembly protein gene,"445,838","446,182",345,,,,True
+565,,CP012831,server_RAST,Phage tail completion protein gene,"443,885","444,349",465,,,,True
+566,,CP012831,server_RAST,Phage tail protein gene,"443,412","443,888",477,,,,True
+567,,CP012831,server_RAST,Putative phage-encoded peptidoglycan binding protein gene,"441,830","442,672",843,,,,True
+568,,CP012831,server_RAST,"Phage terminase, endonuclease subunit gene","439,985","440,686",702,,,,True
+569,,CP012831,server_RAST,Phage major capsid protein gene,"438,962","439,981","1,020",,,,True
+570,,CP012831,server_RAST,Phage capsid scaffolding protein gene,"438,088","438,918",831,,,,True
+571,,CP012831,refseq_RAST,"Phage terminase, ATPase subunit gene","430,265","430,588",324,,,,True
+572,,CP012831,refseq_RAST,Phage infection protein gene,"314,961","315,512",552,,,,False
+573,pseudo6_N2E2,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Prophage antirepressor gene,"6,466,303","6,466,812",510,,,,False
+574,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Gifsy-2 prophage protein gene,"6,045,072","6,045,695",624,,,,False
+575,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage protein gene,"3,938,035","3,939,618","1,584",,,,False
+576,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage-related baseplate assembly protein gene,"3,511,244","3,512,239",996,,,,True
+577,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Prophage long tail fiber protein gene,"3,508,533","3,510,611","2,079",,,,True
+578,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,P2-like prophage tail protein X gene,"3,502,136","3,502,348",213,,,,True
+579,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,FIG032563: Phage tail protein D gene,"3,501,110","3,502,126","1,017",,,,True
+580,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,"FIG111678: IS, phage, Tn; Transposon-related functions gene","3,500,401","3,500,985",585,,,,True
+581,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Mu-like prophage FluMu protein GP38 gene,"3,500,222","3,500,404",183,,,,True
+582,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Bacteriophage tail sheath protein gene,"3,498,726","3,500,222","1,497",,,,True
+583,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage tail tube protein gene,"3,498,311","3,498,658",348,,,,True
+584,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage tail length tape-measure protein gene,"3,496,313","3,497,887","1,575",,,,True
+585,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage tail/DNA circulation protein gene,"3,495,088","3,496,326","1,239",,,,True
+586,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,FIG003269: Prophage tail protein gene,"3,494,044","3,495,084","1,041",,,,True
+587,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Prophage baseplate assembly protein V gene,"3,493,404","3,493,913",510,,,,True
+588,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Bacteriophage protein GP46 gene,"3,493,006","3,493,404",399,,,,True
+589,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage FluMu protein gp47 gene,"3,491,976","3,493,016","1,041",,,,True
+590,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,FIG121501: Prophage tail protein gene,"3,491,389","3,491,988",600,,,,True
+591,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Prophage tail fiber protein gene,"3,490,214","3,491,377","1,164",,,,True
+592,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Prophage tail fiber protein gene,"3,488,585","3,489,679","1,095",,,,True
+593,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage tail fiber assembly protein gene,"3,488,017","3,488,577",561,,,,True
+594,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,"Phage terminase, small subunit gene","2,932,141","2,932,515",375,,,,False
+595,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage infection protein gene,"2,549,983","2,550,555",573,,,,False
+596,,unitig_0|quiver.unitig_1|quiver|pilon,server_RAST,Phage infection protein gene,"1,539,474","1,539,722",249,,,,False
+597,pseudo13_GW456-L13,scaffold1/0|quiver|pilon ,server_RAST,Gifsy-2 prophage protein gene,"4,294,150","4,294,830",681,,,,False
+598,,scaffold1/0|quiver|pilon,server_RAST,Phage integrase family protein gene,"4,125,549","4,125,782",234,,,,False
+599,,scaffold1/0|quiver|pilon,server_RAST,Phage integrase family protein gene,"4,125,162","4,125,467",306,,,,False
+600,,scaffold1/0|quiver|pilon,server_RAST,"Site-specific recombinase, phage integrase family gene","3,621,384","3,622,322",939,,,,False
+601,,scaffold1/0|quiver|pilon,server_RAST,"Site-specific recombinase, phage integrase family gene","3,462,612","3,463,652","1,041",,,,False
+602,,scaffold1/0|quiver|pilon,server_RAST,"Phage integrase:Phage integrase, N-terminal SAM-like gene","3,218,068","3,218,295",228,,,,False
+603,,scaffold1/0|quiver|pilon,server_RAST,Bacteriophage N4 adsorption protein B gene,"3,186,983","3,189,157","2,175",,,,False
+604,,scaffold1/0|quiver|pilon,server_RAST,Bacteriophage N4 adsorption protein A gene,"3,183,822","3,186,986","3,165",,,,False
+605,,scaffold1/0|quiver|pilon,server_RAST,FIG032563: Phage tail protein D gene,"3,095,107","3,096,141","1,035",,,,True
+606,,scaffold1/0|quiver|pilon,server_RAST,Phage tail protein gene,"3,094,855","3,095,061",207,,,,True
+607,,scaffold1/0|quiver|pilon,server_RAST,Phage protein U gene,"3,094,023","3,094,880",858,,,,True
+608,,scaffold1/0|quiver|pilon,server_RAST,FIG035595: Phage protein gene,"3,091,677","3,094,013","2,337",,,,True
+609,,scaffold1/0|quiver|pilon,server_RAST,Phage major tail tube protein gene,"3,090,712","3,091,215",504,,,,True
+610,,scaffold1/0|quiver|pilon,server_RAST,Phage tail sheath monomer gene,"3,089,536","3,090,699","1,164",,,,True
+611,,scaffold1/0|quiver|pilon,server_RAST,Phage tail fiber protein gene,"3,086,536","3,088,845","2,310",,,,True
+612,,scaffold1/0|quiver|pilon,server_RAST,Phage tail fibers gene,"3,085,932","3,086,543",612,,,,True
+613,,scaffold1/0|quiver|pilon,server_RAST,Phage baseplate assembly protein gene,"3,084,720","3,085,055",336,,,,True
+614,,scaffold1/0|quiver|pilon,server_RAST,Prophage Clp protease-like protein gene,"3,080,632","3,082,614","1,983",,,,True
+615,,scaffold1/0|quiver|pilon,server_RAST,Phage portal protein gene,"3,079,035","3,080,585","1,551",,,,True
+616,,scaffold1/0|quiver|pilon,server_RAST,"Phage terminase, large subunit gene","3,076,754","3,078,835","2,082",,,,True
+617,,scaffold1/0|quiver|pilon,server_RAST,"Phage terminase, small subunit gene","3,076,237","3,076,791",555,,,,True
+618,,scaffold1/0|quiver|pilon,server_RAST,"phage integrase, putative gene","3,071,429","3,072,757","1,329",,,,True
+619,,scaffold1/0|quiver|pilon,server_RAST,Phage repressor gene,"3,068,231","3,068,953",723,,,,True
+620,,scaffold1/0|quiver|pilon,server_RAST,Phage infection protein gene,"3,019,286","3,019,531",246,,,,False
+621,,scaffold1/0|quiver|pilon,server_RAST,"Phage terminase, small subunit gene","2,428,090","2,428,455",366,,,,False
+622,,scaffold1/0|quiver|pilon,server_RAST,Gifsy-2 prophage protein gene,"1,769,601","1,770,224",624,,,,False
+623,,scaffold1/0|quiver|pilon,server_RAST,"phage integrase, putative gene","1,313,205","1,314,425","1,221",,,,True
+624,,scaffold1/0|quiver|pilon,server_RAST,phage integrase family protein gene,"1,309,484","1,310,797","1,314",,,,True
+625,psRCH2,Psest_Contig47.1,server_RAST,Probable bacteriophage integrase gene,"4,302,682","4,303,740","1,059",,,,False
+626,,Psest_Contig47.1,server_RAST,"Site-specific recombinase, phage integrase family gene","3,598,952","3,600,538","1,587",,,,False
+627,,Psest_Contig47.1,server_RAST,Phage integrase family protein gene,"3,591,169","3,591,789",621,,,,False
+628,,Psest_Contig47.1,server_RAST,Phage protein gene,"2,354,280","2,355,542","1,263",,,,False
+629,,Psest_Contig47.1,server_RAST,Phage protein gene,"2,347,848","2,349,110","1,263",,,,False
+630,,Psest_Contig47.1,server_RAST,Prophage P4 integrase gene,"1,198,005","1,199,216","1,212",,,,False
+631,,Psest_Contig47.1,server_RAST,"Site-specific recombinase, phage integrase family domain protein gene","685,034","687,130","2,097",,,,False
+632,,Psest_Contig47.1,server_RAST,Phage integrase family protein gene,"654,194","654,316",123,,,,False
+633,,Psest_Contig47.1,server_RAST,"Site-specific recombinase, phage integrase family gene","461,104","462,975","1,872",,,,False
+634,,Psest_Contig44.3,server_RAST,"Phage terminase, small subunit gene","9,454","9,855",402,,,,False
+635,PV4,113993,server_RAST,Putative phage protein gene,"4,477,818","4,479,446","1,629",,,,False
+636,,113993,server_RAST,Phage peptidoglycan binding peptidase gene,"3,625,140","3,626,399","1,260",,,,False
+637,,113993,server_RAST,"Site-specific recombinase, phage integrase family gene","2,293,640","2,294,911","1,272",,,,False
+638,,113993,server_RAST,Phage integrase gene,"1,465,559","1,466,788","1,230",,,,False
+639,,113993,server_RAST,phage integrase family protein gene,"1,452,361","1,452,921",561,,,,False
+640,,113993,server_RAST,Phage integrase gene,"270,161","270,757",597,,,,False
+641,SB2B,248323,server_RAST,Phage T7 exclusion protein gene,"3,474,807","3,476,954","2,148",,,,False
+642,Smeli,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"3,360,319","3,361,038",720,,,,False
+643,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"3,358,559","3,359,788","1,230",,,,False
+644,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"2,199,668","2,200,129",462,,,,False
+645,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"2,184,881","2,185,570",690,,,,False
+646,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"2,175,636","2,177,069","1,434",,,,False
+647,,NC_003047,server_RAST,Phage-related protein gene,"1,984,993","1,985,286",294,,,,False
+648,,NC_003037,server_RAST,Phage-related integrase Mvan 5938 gene,"1,226,047","1,226,961",915,,,,False
+649,,NC_003037,server_RAST,Phage-related integrase Mvan 5938 gene,"1,225,061","1,226,050",990,,,,False
+650,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"1,149,756","1,150,688",933,,,,False
+651,,NC_003037,server_RAST,Phage-related integrase Mvan 5938 gene,"903,254","904,243",990,,,,False
+652,,NC_003037,server_RAST,Phage-related integrase Mvan 5938 gene,"902,343","903,257",915,,,,False
+653,,NC_003078,server_RAST,"Phage lysin, glycosyl hydrolase, family 25 gene","733,897","734,907","1,011",,,,False
+654,,NC_003047,server_RAST,Phage repressor gene,"584,615","585,271",657,,,,False
+655,,NC_003078,server_RAST,Phage endolysin gene,"542,829","543,548",720,,,,False
+656,,NC_003047,server_RAST,elements of external origin; phage-related functions and prophages gene,"540,915","542,123","1,209",,,,False
+657,SynE,NC_007604,server_RAST,"Prophage PSPPH02, late control gene D protein","747,719","749,161","1,443",,,,True
+658,,NC_007604,server_RAST,probable phage tail protein gene,"747,510","747,722",213,,,,True
+659,,NC_007604,server_RAST,Phage protein U gene,"746,590","747,510",921,,,,True
+660,,NC_007604,server_RAST,Phage tail sheath protein FI gene,"741,396","742,820","1,425",,,,True
+661,,NC_007604,server_RAST,Phage tail fiber protein gene,"739,615","740,778","1,164",,,,True
+662,,NC_007604,server_RAST,Phage-related baseplate assembly protein gene,"733,877","734,716",840,,,,True
+663,,NC_007604,server_RAST,Phage-related baseplate assembly protein gene,"733,536","733,880",345,,,,True
+664,,NC_007604,server_RAST,Phage portal protein gene,"727,691","729,154","1,464",,,,True
+665,,NC_007604,server_RAST,"Phage terminase, large subunit gene","725,474","727,354","1,881",,,,True
+666,,NC_007604,server_RAST,Putative bacteriophage-related protein gene,"724,626","725,165",540,,,,True
+667,,NC_007604,server_RAST,"DNA primase (EC 2.7.7.-), phage related gene","720,423","722,966","2,544",,,,True
+668,,NC_007604,server_RAST,Gifsy-2 prophage gene,"715,943","717,025","1,083",,,,True
+669,,NC_007604,server_RAST,Phage integrase family gene,"711,446","712,546","1,101",,,,True
+670,,NC_007604,server_RAST,Phage integrase family gene,"136,706","138,013","1,308",,,,False
+671,,NC_007595,server_RAST,Abort lactococcal phage infection AbiTii gene,"27,980","28,894",915,,,,False
+672,,NC_004990,server_RAST,"Phage replicative DNA helicase, repA gene","3,995","6,625","2,631",,,,True
+673,WCS417,CP007637,server_RAST,Phage infection protein gene,"3,538,875","3,539,261",387,,,,False
+674,,CP007637,server_RAST,"Site-specific recombinase, phage integrase family gene","3,026,746","3,027,660",915,,,,False
+675,,CP007637,server_RAST,Phage protein inside capsid D gene,"2,299,741","2,303,790","4,050",,,,False
+676,,CP007637,server_RAST,Gifsy-2 prophage protein gene,"2,189,079","2,189,765",687,,,,True
+677,,CP007637,server_RAST,Phage endolysin gene,"2,186,238","2,186,771",534,,,,True
+678,,CP007637,server_RAST,Phage tail fiber protein gene,"2,180,305","2,183,907","3,603",,,,True
+679,,CP007637,server_RAST,Phage tail assembly protein I gene,"2,179,103","2,179,714",612,,,,True
+680,,CP007637,server_RAST,Phage tail assembly protein gene,"2,175,692","2,176,456",765,,,,True
+681,,CP007637,server_RAST,Phage minor tail protein gene,"2,174,937","2,175,689",753,,,,True
+682,,CP007637,server_RAST,Phage minor tail protein gene,"2,174,587","2,174,925",339,,,,True
+683,,CP007637,server_RAST,Phage tail length tape-measure protein 1 gene,"2,171,501","2,174,587","3,087",,,,True
+684,,CP007637,server_RAST,probable phage protein YPO2116 gene,"2,170,113","2,170,769",657,,,,True
+685,,CP007637,server_RAST,phage-related conserved hypothetical protein gene,"2,168,666","2,169,034",369,,,,True
+686,,CP007637,server_RAST,phage-related conserved hypothetical protein gene,"2,167,900","2,168,403",504,,,,True
+687,,CP007637,server_RAST,probable phage protein YPO2110 gene,"2,166,246","2,167,211",966,,,,True
+688,,CP007637,server_RAST,Phage protein gene,"2,163,749","2,164,837","1,089",,,,True
+689,,CP007637,server_RAST,Putative phage terminase gene,"2,161,058","2,162,359","1,302",,,,True
+690,,CP007637,server_RAST,Phage protein gene,"2,160,610","2,161,071",462,,,,True
+691,,CP007637,server_RAST,Putative cI prophage repressor protein gene,"2,150,202","2,151,062",861,,,,True
+692,,CP007637,server_RAST,Gifsy-2 prophage protein gene,"2,141,785","2,142,573",789,,,,True
+693,,CP007637,server_RAST,Phage-related protein gene,"2,132,927","2,133,793",867,,,,True
+694,,CP007637,server_RAST,"Phage terminase, small subunit gene","1,823,975","1,824,337",363,,,,False
+695,,CP007637,server_RAST,"Site-specific recombinase, phage integrase family gene","1,704,386","1,705,534","1,149",,,,True
+696,,CP007637,server_RAST,FIG032563: Phage tail protein D gene,"1,291,903","1,292,910","1,008",,,,True
+697,,CP007637,server_RAST,P2-like prophage tail protein X gene,"1,291,681","1,291,893",213,,,,True
+698,,CP007637,server_RAST,Phage tail length tape-measure protein gene,"1,289,845","1,291,305","1,461",,,,True
+699,,CP007637,server_RAST,Phage tail fibers gene,"1,285,490","1,286,020",531,,,,True
+700,,CP007637,server_RAST,Phage tail fibers gene,"1,284,855","1,285,493",639,,,,True
+701,,CP007637,server_RAST,Phage-related baseplate assembly protein gene,"1,283,863","1,284,858",996,,,,True
+702,,CP007637,server_RAST,Gifsy-2 prophage protein gene,"994,587","995,207",621,,,,False

@@ -1,0 +1,368 @@
+orgId	scaffoldId	phage	start	stop	length	completeness(score)_phaster	fasta_phaster	tool	gb_phispy	tset_phispy	tset_desc_phispy	out_path_phispy	insert_tiger	type_tiger	attL_tiger	attB_tiger	attR_tiger	ref_tiger	ref_coord_tiger	int_tiger
+ANA3	248373	3	220472.0	225119.0	4647.0	incomplete(10)	genome_ANA3.fna_out	PHASTER												
+ANA3	248374	1	1924826.0	1933265.0	8439.0	incomplete(10)	genome_ANA3.fna_out	PHASTER												
+ANA3	248374	2	3695729.0	3704133.0	8404.0	incomplete(20)	genome_ANA3.fna_out	PHASTER												
+ANA3	248374	pp1	230085.0	258783.0	28699.0			PhiSpy	ANA3	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+ANA3	248374	pp2	1488130.0	1500162.0	12033.0			PhiSpy	ANA3	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+ANA3	248374	pp3	1531562.0	1573368.0	41807.0			PhiSpy	ANA3	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010676	1	2506499.0	2513079.0	6580.0	incomplete(10)	genome_BFirm_2.fna_out	PHASTER												
+BFirm	NC_010676	pp10	1757425.0	1778155.0	20731.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010676	pp11	2792080.0	2817609.0	25530.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010679	pp1	36028.0	120596.0	84569.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	Bph4.48.R	1293431.0	1341138.0	47708.0			Islander_paper					R	Phage1						Y-Int.19
+BFirm	NC_010681	pp2	162367.0	181090.0	18724.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp3	259065.0	269231.0	10167.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp5	1462541.0	1476180.0	13640.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp6	1484482.0	1520364.0	35883.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp7	3993728.0	4012619.0	18892.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp8	4058285.0	4095854.0	37570.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+BFirm	NC_010681	pp9	4231336.0	4279410.0	48075.0			PhiSpy	BFirm	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp1	783.0	17703.0	16921.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp10	1595490.0	1605999.0	10510.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp11	1999530.0	2028408.0	28879.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp14	3479882.0	3510497.0	30616.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp15	3545118.0	3784485.0	239368.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp16	3908453.0	3963015.0	54563.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp17	4174538.0	4231174.0	56637.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp18	4420476.0	4559571.0	139096.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp19	4631899.0	4768682.0	136784.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp2	48834.0	103696.0	54863.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp20	4903448.0	4962668.0	59221.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp21	5120937.0	5172675.0	51739.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp22	5294040.0	5349979.0	55940.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp23	5411705.0	5486095.0	74391.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp24	5673632.0	5710168.0	36537.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp25	6043701.0	6078409.0	34709.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp3	483453.0	496918.0	13466.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp3	304251.0	323528.0	19278.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp4	1380843.0	1414443.0	33601.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp5	512111.0	590655.0	78545.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp5	1674969.0	1688202.0	13234.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp6	1116891.0	1148316.0	31426.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp6	2864699.0	2885211.0	20513.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp7	1211002.0	1222379.0	11378.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp7	3355935.0	3399189.0	43255.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp8	1276351.0	1335186.0	58836.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Btheta	241	pp8	4097151.0	4110423.0	13273.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	241	pp9	6248072.0	6259968.0	11897.0			PhiSpy	Btheta	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Btheta	7192	pp27	1.0	32866.0	32866.0			PhiSpy	Btheta	trainSet_411479	Bacteroides_uniformis_ATCC_8492_strain_81A2.gbk	trainSet_411479.out								
+Caulo	NC_011916	1	3011594.0	3025740.0	14146.0	incomplete(50)	genome_Caulo.fna_out	PHASTER												
+Caulo	NC_011916	pp1	768833.0	802774.0	33942.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp1	39980.0	68196.0	28217.0			PhiSpy	GCF_000022005	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Caulo	NC_011916	pp10	2934282.0	2970106.0	35825.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp12	3163060.0	3170129.0	7070.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp13	3195074.0	3221288.0	26215.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp14	3251453.0	3267882.0	16430.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp15	3351427.0	3361634.0	10208.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp16	3591851.0	3692168.0	100318.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp17	3770847.0	3803271.0	32425.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp18	4019778.0	4042684.0	22907.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp2	1213981.0	1235635.0	21655.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp2	432336.0	450525.0	18190.0			PhiSpy	GCF_000022005	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Caulo	NC_011916	pp3	1434213.0	1463100.0	28888.0			PhiSpy	GCF_000022005	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Caulo	NC_011916	pp3	1832940.0	1849506.0	16567.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp4	1912227.0	1933254.0	21028.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp4	1565802.0	1576358.0	10557.0			PhiSpy	GCF_000022005	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Caulo	NC_011916	pp5	2074608.0	2097556.0	22949.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp5	2143739.0	2183471.0	39733.0			PhiSpy	GCF_000022005	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Caulo	NC_011916	pp7	2308196.0	2340829.0	32634.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp8	2536118.0	2575064.0	38947.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Caulo	NC_011916	pp9	2656074.0	2670650.0	14577.0			PhiSpy	GCF_000022005	trainSet_190650	Caulobacter_crescentus_CB15.gb	trainSet_190650.out								
+Cola	Echvi_Contig97	1	3742673.0	3756155.0	13482.0	incomplete(40)	genome_Cola.fna_out	PHASTER												
+Cola	Echvi_Contig97	10J	3131100.0	3141585.0	10486.0			Islander_KW					J	island						Y-Int.9
+Cola	Echvi_Contig97	53S	402990.0	456379.0	53390.0			Islander_KW					S	island						Y-Int.4
+Cola	Echvi_Contig97	pp1	238490.0	275870.0	37381.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp2	1215380.0	1242843.0	27464.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp3	2661549.0	2669450.0	7902.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp5	3876285.0	3880511.0	4227.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp6	4906024.0	4959475.0	53452.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp7	5120613.0	5138778.0	18166.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cola	Echvi_Contig97	pp8	5342337.0	5363112.0	20776.0			PhiSpy	Cola	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cup4G11	NZ_CP010536	1	1461679.0	1474691.0	13012.0	incomplete(20)	genome_Cup4G11_1.fna_out	PHASTER												
+Cup4G11	NZ_CP010536	2	1475803.0	1488597.0	12794.0	incomplete(20)	genome_Cup4G11_1.fna_out	PHASTER												
+Cup4G11	NZ_CP010536	3	1716880.0	1745869.0	28989.0	incomplete(30)	genome_Cup4G11_1.fna_out	PHASTER												
+Cup4G11	NZ_CP010536	4	1772026.0	1777585.0	5559.0	incomplete(30)	genome_Cup4G11_1.fna_out	PHASTER												
+Cup4G11	NZ_CP010536	4.A	4245008.0	4248623.0	3615.0			TIGER_KW					A	island	CAGCTGGGAGAGCGCTGCGTTCGCAATGCAGAGGTCGGGAGTTCGATCCTcCTTCGGTCCACCAGGATAAAATTAATGAAATCAAGGGCTTGGCATCTCGC	CAGCTGGGAGAGCGCTGCGTTCGCAATGCAGAGGTCGGGAGTTCGATCCTcAGAGGTCGGGAGTTCGATCCTCCTTCGGTCCACCAGATTCGCGGTACAAG	AATTGACCAAACGGTCGCCCGACTCTATCCGGGGAGCTGCGTTCGCAATGcAGAGGTCGGGAGTTCGATCCTCCTTCGGTCCACCAGGATTCGCAGTACAA	NZ_AHJE01000017.1	173095-173095	Y-Int.9
+Cup4G11	NZ_CP010536	43T	4036034.0	4078536.0	42503.0			Islander_KW					T	island						Y-Int.8
+Cup4G11	NZ_CP010536	5	1782710.0	1818763.0	36053.0	intact(100)	genome_Cup4G11_1.fna_out	PHASTER												
+Cup4G11	NZ_CP010536	pp1	1213503.0	1230121.0	16619.0			PhiSpy	refseq_Cup4G11	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cup4G11	NZ_CP010536	pp5	4090599.0	4099668.0	9070.0			PhiSpy	refseq_Cup4G11	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cup4G11	NZ_CP010536	pp6	4143271.0	4181070.0	37800.0			PhiSpy	refseq_Cup4G11	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cup4G11	NZ_CP010537	180N	655783.0	836259.0	180477.0			Islander_KW					N	island						Y-Int.10
+Cup4G11	NZ_CP010537	39.Asp_Glu_race|dacC	2003156.0	2042549.0	39393.0			TIGER_KW					Asp_Glu_race|dacC	island	TTGCAAAACGGTGCGTCCAGCTAGCGTCCTCCGCCCAGGCGTAGTCACCTacgcaGCACCCCAGAGTTAGGTCGGCATGGACATCGCGTAACCCATTGAATTCGT	TTGCAAAACGGTGCGTCCAGCTAGCGTCCTCCGCCCAGGCGTAGTCACCTacacaATGCTCTCCTCGAGGCGGCCTCACGCCTCGGCCCACGCACGACAGTTCAT	ATGGGCATCAAGTTCTGAGGTGGATGTCCATACCCCCTTATGCGCGGGTGacacaATGCTCTCCTCGAGGCGGCCTCACGCCTCGGCCCACGCACGACAGTTCAT	NZ_BBQI01000031.1	29335-29341	Y-Int.12
+Cup4G11	NZ_CP010537	pp8	2373370.0	2389470.0	16101.0			PhiSpy	refseq_Cup4G11	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Cup4G11	NZ_CP010537	pp9	3457760.0	3483539.0	25780.0			PhiSpy	refseq_Cup4G11	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	1	89783.0	102824.0	13041.0	incomplete(40)	genome_Dino.fna_out	PHASTER												
+Dino	57145	2	2290509.0	2306161.0	15652.0	incomplete(40)	genome_Dino.fna_out	PHASTER												
+Dino	57145	Dsh1.16.N	1989048.0	2004973.0	15926.0			Islander_paper					N	Phage2						Y-Int.5
+Dino	57145	pp1	260484.0	323750.0	63267.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	pp2	421575.0	455518.0	33944.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	pp3	1131167.0	1158365.0	27199.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	pp4	1358832.0	1387725.0	28894.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	pp4	2318521.0	2327424.0	8904.0			PhiSpy	Dino	trainSet_224914	Brucella_melitensis_16M.gb	trainSet_224914.out								
+Dino	57145	pp5	2777782.0	2785326.0	7545.0			PhiSpy	Dino	trainSet_224914	Brucella_melitensis_16M.gb	trainSet_224914.out								
+Dino	57145	pp6	2689949.0	2698334.0	8386.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57145	pp7	2997915.0	3005520.0	7606.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57147	pp8	138528.0	152852.0	14325.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57148	pp9	23198.0	37227.0	14030.0			PhiSpy	Dino	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dino	57149	3	16240.0	31699.0	15459.0	questionable(90)	genome_Dino.fna_out	PHASTER												
+Dyella79	N515DRAFT_scaffold00001	1	830862.0	840570.0	9708.0	incomplete(30)	genome_Dyella79.fna_out	PHASTER												
+Dyella79	N515DRAFT_scaffold00001	2	859083.0	882370.0	23287.0	incomplete(40)	genome_Dyella79.fna_out	PHASTER												
+Dyella79	N515DRAFT_scaffold00001	pp1	2.0	19339.0	19338.0			PhiSpy	7636	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dyella79	N515DRAFT_scaffold00003	pp3	496238.0	527877.0	31640.0			PhiSpy	7636	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dyella79	N515DRAFT_scaffold00003	pp4	556044.0	581645.0	25602.0			PhiSpy	7636	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Dyella79	N515DRAFT_scaffold00004	pp7	377348.0	398928.0	21581.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+Dyella79	N515DRAFT_scaffold00005	3	147636.0	165101.0	17465.0	intact(100)	genome_Dyella79.fna_out	PHASTER												
+Dyella79	N515DRAFT_scaffold00006	pp9	1.0	6680.0	6680.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+Dyella79	N515DRAFT_scaffold00008	4J	1051.0	5453.0	4403.0			Islander_KW					J	island						Y-Int.3
+Dyella79	N515DRAFT_scaffold00012	pp1	1.0	3818.0	3818.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+Dyella79	N515DRAFT_scaffold00014	pp2	5926.0	27665.0	21740.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+Dyella79	N515DRAFT_scaffold00015	pp3	2998.0	18081.0	15084.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+Dyella79	N515DRAFT_scaffold00016	pp4	1.0	15925.0	15925.0			PhiSpy	7636	trainSet_190486	Xanthomonas_axonopodis_pv._citri_str._306.gb	trainSet_190486.out								
+HerbieS	NC_014323	1	215551.0	241958.0	26407.0	incomplete(50)	genome_HerbieS.fna_out	PHASTER												
+HerbieS	NC_014323	Hse1.37.I	967785.0	1005197.0	37413.0			Islander_paper					I	Phage1						Y-Int.1
+HerbieS	NC_014323	pp1	104657.0	157828.0	53172.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp3	862350.0	893237.0	30888.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp5	1347046.0	1365519.0	18474.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp6	2303766.0	2322908.0	19143.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp7	3037149.0	3064548.0	27400.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp8	3238752.0	3249520.0	10769.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+HerbieS	NC_014323	pp9	4652463.0	4669981.0	17519.0			PhiSpy	Herbie	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Kang	B158DRAFT_scaffold_0	1	1259940.0	1269917.0	9977.0	incomplete(10)	genome_Kang.fna_out	PHASTER												
+Kang	B158DRAFT_scaffold_0	11F	212778.0	223841.0	11064.0			Islander_KW					F	island						Y-Int.1
+Kang	B158DRAFT_scaffold_0	pp1	75948.0	88285.0	12338.0			PhiSpy	7339	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Kang	B158DRAFT_scaffold_0	pp2	420377.0	443886.0	23510.0			PhiSpy	7339	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Kang	B158DRAFT_scaffold_1	pp3	963.0	41241.0	40279.0			PhiSpy	7339	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Keio	7023	2	1197863.0	1215894.0	18031.0	questionable(90)	genome_Keio.fna_out	PHASTER												
+Keio	7023	4	1616879.0	1651939.0	35060.0	intact(100)	genome_Keio.fna_out	PHASTER												
+Keio	7023	5	2165326.0	2170897.0	5571.0	incomplete(40)	genome_Keio.fna_out	PHASTER												
+Keio	7023	6	2463323.0	2475651.0	12328.0	incomplete(40)	genome_Keio.fna_out	PHASTER												
+Keio	7023	7	4489216.0	4518442.0	29226.0	incomplete(60)	genome_Keio.fna_out	PHASTER												
+Keio	7023	Eco837.15.icd	1195539.0	1210744.0	15206.0			TIGER_paper					icd	Phage1	CCGGTCAGGACAAAGTAAATCCTGGCTCTATTATTCTCTCCGCTGAGATGatgctgcgccacatgggttggaccgaagcggctgacttaattgttaaaggtatggaaggcgcaatcaacgcgaaaaccgtaacctatgacttcgagcgtctgatggatggcgctaaactgctgaaatgttcagagtttggtgacgcgatcatcgaaaacatgtaatgccgtagtttgttaaatttattaacgggagcgtaacgctcccgttgttttTTGTTAGGCTGCTAACGGTTATCAAAATTTTATCAAAAAAAGTTATCAAA	CCGGTCAGGACAAAGTAAATCCTGGCTCTATTATTCTCTCCGCTGAGATGatgctgcgccatatgggttggactgaagcggctgacctgattgttaaaggtatggaaggcgcaatcaatgccaagaccgtaacttatgacttcgaacgtctgatggaaggcgctaagctgctgaaatgttcagagtttggtgaagcgatcatcgaaaacatgtaatctctccatgtgttaaatattgaaacgggcgtataacacgcccgttgttttATTTATGTGGATATTATTAATAGCATATCGAGCATATTTATATGAAGCCC	AGTAAAATTATGTTGCTATGTCAGATAGTTACGATTTAGTCATCTAACTAatgctgcgccatatgggttggactgaagcggctgacctgattgttaaaggtatggaaggcgcaatcaatgccaagaccgtaacttatgacttcgaacgtctgatggaaggcgctaagctgctgaaatgttcagagtttggtgaagcgatcatcgaaaacatgtaatctctccatgtgttaaatattgaaacgggcgtataacacgcccgttgttttATTTATGTGGATATTATTAATAGCATATCGAGCATATTTATATGAAGCCC		1251127-1248128	['Y-Int.3', 'S-Core.1']
+Keio	7023	Eco837.20.proP	1630306.0	1650776.0	20471.0			TIGER_paper					proP	Phage1	ACTAAGGATTTGGTGAAAGCAGCAGTATCGGGATGGCTGGGCACTGCGCTtgaatttatggatttcaagAGTCATGCGTGTTAACTATTTGATAAATATTAAATTAATTTTTCATTGCT	ACTAAGGATTTGGTGAAAGCAGCAGTATCGGGATGGCTGGGCACTGCGCTtgaatttatggatttccagTTATATTCGCTCGGCGCAGCGTTAGTGTTTCATGAAATATTTTTTCCTGA	AAAAAACCTAGAAAACGCCAAGGAAACCACAGGATGGGAAAAAACACCTGtgaattatggatttccagtTATATTCGCTCGGCGCAGCGTTAGTGTTTCATGAAATATTTTTTCCTGAA		1724986-1721987	['S-Core.3', 'Y-Int.5']
+Keio	7023	Eco837.21.R	563981.0	585282.0	21302.0			TIGER,Islander_paper					R	Phage1	ACACCGCATTGCGGTATCAACGCGCCCTTAGCTCAGTTGGATAGAGCAACgaccttctaagtcgtgggccgcaggttcgaatcctgcagggcgcgccattACAATTCAATCAGTTACGCCTTCTTTATATCCTCCATAATTTCAGAGTGG	ACACCGCATTGCGGTATCAACGCGCCCTTAGCTCAGTTGGATAGAGCAACgaccttctaagtcgtgggccgcaggttcgaatcctgcagggcgcgccattTCTTCCTCATTTATGCCCGTCTTATCCGTTTCCGCTTTGCCCTTCACCAC	GTGAGCGCAGAGATGGCGCGGTAAGTTGTTGACTTAAAATGTCGTTCTAGgaacttctaagtcgtgggccgcaggttcgaatcctgcagggcgcgccattTCTTCCTCATTTATGCCCGTCTTATCCGTTTCCGCTTTGCCCTTCACCAC		38976-41975	['S-Int.1', 'Y-Int.2']
+Keio	7023	Eco837.23.ttcA	1409944.0	1433004.0	23061.0			TIGER_paper					ttcA	Phage1	GCATACTCTTCTGATGCCATATAACGAATTGAGTCGCTTTTAAATGTCGCaaaatcaagaaattagtaagaaagaacaatacaacctgaacaaGTAAGGGCAAAAATCACAACTCTCTGACTCATAAGTATTTTACTTATTTT	GCATACTCTTCTGATGCCATATAACGAATTGAGTCGCTTTTAAATGTCGCaaaatcaagaaattagtaagaaagaacaatacaacctgaacaaATTACAAAAACGTCTGCGTCGTAACGTGGGCGAAGCCATTGCTGACTTCA	TTTGCCCCCAATTTGCCCCATTTAGTACCAGAGAACTGAAATAATGCAAGaaaatcaacaaattacaaagaaagaacaatacaacctgaacaaATTACAAAAACGTCTGCGTCGTAACGTGGGCGAAGCCATTGCTGACTTCA		1395856-1398855	['Y-Int.4', 'S-Core.2']
+Korea	Ga0059261_unitig_0_quiver	1	2445190.0	2486174.0	40984.0	intact(150)	genome_Korea.fna_out	PHASTER												
+Korea	Ga0059261_unitig_0_quiver	57R	2635267.0	2692201.0	56935.0			Islander_KW					R	island						Y-Int.10
+Korea	Ga0059261_unitig_0_quiver	7S	1971798.0	1978589.0	6792.0			Islander_KW					S	island						Y-Int.7
+Korea	Ga0059261_unitig_0_quiver	82E	3144484.0	3226038.0	81555.0			Islander_KW					E	island						Y-Int.12
+Korea	Ga0059261_unitig_0_quiver	99K	364265.0	462950.0	98686.0			Islander_KW					K	island						Y-Int.1
+Korea	Ga0059261_unitig_0_quiver	pp1	156250.0	172545.0	16296.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp10	4304179.0	4322744.0	18566.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp11	4376019.0	4398689.0	22671.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp3	729856.0	759629.0	29774.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp4	2163696.0	2178510.0	14815.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp8	3583463.0	3591097.0	7635.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Korea	Ga0059261_unitig_0_quiver	pp9	3828409.0	3859802.0	31394.0			PhiSpy	S_koreensis	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Koxy	NZ_CP020657	1	648491.0	662153.0	13662.0	questionable(75)	genome_Koxy.fna_out	PHASTER												
+Koxy	NZ_CP020657	10.AAA_4	2996021.0	3006411.0	10390.0			TIGER_KW					AAA_4	island	GATTGCCAGTGGAAAGGAAGGGCCATGGTGGGACTTTAAACAAACCTACCACCAAAACAATGCAGCCCTTGTTCACGATATCCTCTGCATGGCAAACGTC	GATTGCCAGTGGAAAGGAAGGACCATGGTGGGACTTTAAACAAACCTACCCGAATCGCTGTGGCCATTTCAAACAGTCCTGCGCTGATCATGTTTTTTTC	CCAGAATTGCTGCATCTCGAATGGTGTTCAAACTGTAGTTTTCGCCATAGCGAATCGACGTAGCCATTTCAAACAAGCCTTTACTGATCATGCTTTTTTC	NZ_ABVX01000001.1	60671-60672	Y-Int.8
+Koxy	NZ_CP020657	11.T	1214087.0	1224993.0	10906.0			TIGER_KW					T	island	CGATATAGCTCAGTTGGTAGAGCAGCGCATTCGTAATGCGAAGGTCGTAGgttcgactcctattatcggcaccatctcaacTTCCCCAAACGTCCGTATTCATCCATAAACACCATGATTTATAAAGATTT	CGATATAGCTCAGTTGGTAGAGCAGCGCATTCGTAATGCGAAGGTCGTAGgttcgactcctattatcggcactcacacaacAAAATCCATTAAAAACAATAACTTAAAGAGTATTTCTCTCTCAAGTTACG	TATTTATCGAACTTAAATTTTACTTATATATCAATGCGTTGATTTGATTAgttgattcctattatcgcactcacacaacaaAATCCATTAAAAACAATAACTTAAAGAGTATTTCTCTCTCAAGTTACGAT	NZ_JNFT01000001.1	77958-77928	Y-Int.3
+Koxy	NZ_CP020657	12.L	648501.0	660600.0	12099.0			TIGER_KW					L	island	TCGGTAGACGCAGTTGATTCAAAATCAACCGTAGAAATACGTGCCGGTTCgagtccggccttcggcaccatTAGTACTTCCAAGACCATCCGAGAAAGTCCAATTATCCCTTAAAAATCAA	TCGGTAGACGCAGTTGATTCAAAATCAACCGTAGAAATACGTGCCGGTTCgagtccggccttcggcaccatACGATGCAATTAAGTCGCCTAAGGGCGGCTTTTTTTATTTCTGAAATCAG	TTATGGTTTATATATTATCTTTTTGATTTCATTAAGTTACGACATGATTTgagtccggccttcgcaccataCGATGCAATTAAGTCGCCTAAGGGCGGCTTTTTTCATTTCTGAAATCAGC	NZ_FKZY01000013.1	17953-17973	Y-Int.1
+Koxy	NZ_CP020657	138Z	4517114.0	4654841.0	137728.0			Islander_KW					Z	phage_man						Y-Int.12
+Koxy	NZ_CP020657	2	1204836.0	1230778.0	25942.0	incomplete(30)	genome_Koxy.fna_out	PHASTER												
+Koxy	NZ_CP020657	3.pspA	2718759.0	2722050.0	3291.0			TIGER_KW					pspA	island	CGTTTCTCGCTCATAGCTGACCTCACGGCGCTTCAGACAGTCCGCTTGGTgccaaaagcggCCCCTTATAATGCATGCCAGCCATAGCGCGACGCGAGAATTTTTGTCCCT	CGTTTCTCGCTCATAGCTGACCTCACGGCGCTTCAGGCAGTCCGCTTGGCgccaggagcggAAGTTAACTACGGATAAAATTCAGCGCCCCACCCCCAGAGCCGCTGCATA	TCTGAATCGATCGAAGTCTAAGGTTGTCAGGGCTGCAACAGCAGCCCTGTgccaggagcggAAGTTAACTACGGATAAAATTCAGCGCCCCACCCCCAGAGCCGCTGCATA	NZ_FLAB01000001.1	544327-544317	Y-Int.7
+Koxy	NZ_CP020657	3.site-specific_tyrosine_recombinase_XerC	3005063.0	3007569.0	2506.0			TIGER_KW					site-specific_tyrosine_recombinase_XerC	island	GTTCAGCCTGATTGTGACCACAGTAGATGACGACGTTTCGGATCAGCGAAaaagATTGCCTTCATTAAAAAATGTCTATGCAAACCGGGTGCTGGCATTAGATA	GTTCAGCCTGATTGTGACCACAGTAGATGACGACGTTTCGGATCAGCGAAaaagGTCGATGGATAACCTCAGCACAGCTTCATCTCTAGGGGATCCCAATACCG	TGAGTTGACCGGGCAAACCCACCCAGTGTATCTAACCACAGGGGTAATTCaacgGTCGATGGATAACCTCAGCACAGCTTCATCTCTAGGGGATCCCAATACCG	NZ_AFAF02000005.1	428901-428896	Y-Int.8
+Koxy	NZ_CP020657	35.S	2134633.0	2169502.0	34869.0			TIGER_KW					S	island	GGCACCGGTCTTGAAAACCGGCGACCCGAAAGGGTTCTAGAGTTCGAATCtctacgcttccgccaaatataaaccccaagctattaattagcttggggtttttcgttttatactgtttctgttgtgccattTGTTGTGCCATTTCTCTTTAGCTTAGAGTGTTCCCGGCTAGCTTGCATCG	GCACCGGTCTTGAAAACCGGCGACCCGAAAGGGTTCTAGAGTTCGAATCTctacgcttccgccaaatacaaaccccgagctattaaatagctcggggtttttttgttttatacgctttctgttgcgccattATCCTGATTACGCGTTGATGCAGCGCCCGCGTAGGTAAACGCTGCCTCAA	CAATATAGTTATGGTTTGTATTGGATTGCCATGGATTTGAGTATGGCGGActacgcttccgccaaatacaaaccccgagctattaaatagctcggggtttttttgttttatacgctttctgttgcgccattATCCTGATTACGCGTTGATGCAGCGCCCGCGTAGGTAAACGCTGCCTCAA	NZ_LWKU01000004.1	194685-194765	Y-Int.5
+Koxy	NZ_CP020657	36.RybB	1938999.0	1974707.0	35708.0			TIGER_KW					RybB	phage_man	TGTCCCCATTTTGTGGAGCCCATCAACCCCGCCACTTAGGTTCAAGGTTGatgggttttttgttGCCTGAATTTTACCACCCATAAAATCAATCACTTACATCAGCACTTTTCC	TGTCCCCATTTTGTGGAGCCCATCAACCCCGCCACTTAGGTTCAAGGTTGatgggttttttgttTTCTGCGCCCCGCTCACTCTCCCGCCAGCCGGTCTACCATCAGTCGAATC	ACTCATTGATAATATTGCAACTCGTTGTTTTCACTAACCCATTTACATAAatgggttttttgttTTCTGCGCCCCGCTCACTCTCCCGCCAGCCGGTCTACCATCAGTCGAATC	NZ_FLAB01000004.1	262523-262508	Y-Int.4
+Koxy	NZ_CP020657	38.traC	660598.0	698487.0	37889.0			TIGER_KW					traC	island	TGATGAAATGCAGATACAAAAAAGTATTTTAGTGGTCTGATTGGGGGATTtggtgcgaaggccggactcaTGGACTAAACTTAACTAATTAATAATTAAAGATAATGTGAGGGTTATTAA	ATGATGAAATGCAGATACAAAAAAGATTTTAGTGGACTGATTGGGGGATTtggtgcgaaggccggactcaAATCATGTCGTAACTTAATGAAATTAAACAGATAATATATAAATCATAAA	TGATTTCAGAAATGAAAAAAGCCGCCCTTAGGCGACTTAATTGCATCGTAtggtgcgaaggccggactcaAATCATGTCGTAACTTAATGAAATCAAAAAGATAATATATAAACCATAAA	NZ_JH603154.1	461114-461095	Y-Int.2
+Koxy	NZ_CP020657	49.proP	3247816.0	3297040.0	49224.0			TIGER_KW					proP	phage_man	CCGATCTCATTCGTGCAGCCGTATCTGGTTGGTTAGGCACTGCACTGGAGtttatggatttccaGGTTTATAGATTACAACGATATGAATTTAAATAACTTTATCCAGTTTTGA	CCGATCTCATTCGTGCAGCCGTATCTGGTTGGTTAGGCACGGCACTGGAGtttatggatttccaACTCTATTCCCTTGGCGCAGCGCTGGTTTTCCATGAGATTTTTTTCCCGG	ATCCCCGGTTACATCGGGCTATTACATGGTTAGTTAAAATAGCCCGCTAAtttatggatttccaGCTCTATTCCCTCGGGGCGGCGCTGGTTTTCCATGAAATATTTTTCCCGG	NZ_JSWW01000008.1	95477-95464	Y-Int.9
+Koxy	NZ_CP020657	5	3233975.0	3307945.0	73970.0	intact(150)	genome_Koxy.fna_out	PHASTER												
+Koxy	NZ_CP020657	51.Z	4517345.0	4568557.0	51212.0			TIGER_KW					Z	phage_man	GACTAAGCATGTAGTACCGAGGATGTAGGAATTTCGGACGCGGGTTCAACtcccgccagctccaccaaaattctccatcggtgattaccagagtcatccgatgaagtcctaagagcccgcacggcgcaagccctgcgggcttttttgtgccttgaatttgtcccgcgaagtctgatgccaactaattaaatccgaaccttttaggcaccttgttaggcacctcataaagctatattgtttttgaggtgcctaaaactatggaaacccggcaatggcaagacaaaccaaacctctatccgttaaggaaatcgaatctgctaaacccaaagaagcggactacgttctctatgatggcgatggccttgagctactcatcaaaaccagcggaagtaaaatctggcagtttcgctacATTCGCCCTGTCACTAAGAAACGAGCGAAGAAGAGTATTGGTCCCTACCC	CTGACTAAGCATGTAGTACCGAGGATGTAGGAATTTCGGACGCGGGTTCAactcccgccagctccaccaaaattctccatcggtgattaccagagtcatccgatgaagtcctaagagcccgcacggcgcaagccctgcgggcttttttgtgccttgaatttgtcccgcgaagtctgatgccaactaattaaatctgaaccttttaatcccattgataggcccaacgaaaagctctattgttttcgttgggcctaaacgcatggagactccccatggcaagaaaaccaagccgttaactgatacggaaaccaaagccgccaaacctaaatatgatgattagcagcagtatgatggtgacggaattaccctattaatcaagtccagcggcagtaagctctggcagttccgctacTACCGACTTCTGACCAAACAACGAACCAAACAGAGCTTCGGTGCCTACCC	AAAGTCAAACTACTAGTTACCAAAGTGAATTCAATGGATTACACAAGCAAttcagactccgccagcccaaaattctccatcggtgattaccagagtcatccgatgaagtcctaagagcccgcacggcgcaagccctgcgggcttttttgtgccttgaatttgtcccgcgaagtctgatgccaactaattaaatctgaaccttttaatcccattggtaggcccaacgcaaagctctattgttttcgttgggcctaaacgcatggagactccccatggcaagaaaaaccaagccgttaactgatacggaaaccaaagccgccaaacctaaatatgatgattagcagcagtatgatggtgacggagttaccctactaatcaagtccagcggtagtaagctctggcagttccgctaCTACCGACTTCTGACCAAACAACAAACCAAACAGAGCTTCGGTGCCTACC	NZ_ATNG01000002.1	26880-27243	Y-Int.12
+Koxy	NZ_CP020657	63.sapB|sapC	2529827.0	2593050.0	63223.0			TIGER_KW					sapB|sapC	phage_man	TATCCGATATTTTGGGTGCGATGGCAAACCCACTGAAACATAAGGAATGGtatgccctacgatagcACCTACAAAACAAAATTATTTATCAATTAAAAACAATAAATTAAACTTAA	TATCCGATATTTTGGGTGCGATGGCAAACCCACTGAAACATAAGGAATGGtatgccctacgatagcGTCTATCTGGAGAAGCGCCCGCCTGGCGCGCTGCGCACCGTATGGCGAAA	GAAAATTTAAAAAGACATCAATCATGATTAACAAACATAAAACAGGTTCAtatgccctacgatagcGTCTATCTGGAGAAGCGCCCGCCTGGCGCGCTGCGCACCGTATGGCGAAA	NZ_JWBC01000128.1	228833-228816	Y-Int.6
+Koxy	NZ_CP020657	pp11	5789573.0	5800105.0	10533.0			PhiSpy	GCF_002090195	trainSet_Ecoli	Escherichia_coli_CFT073.gb;Escherichia_coli_K12.gb;Escherichia_coli_O157-H7.gb;Escherichia_coli_O157-H7_EDL933.gb	trainSet_Ecoli.out								
+Koxy	NZ_CP020657	pp4	3083527.0	3091310.0	7784.0			PhiSpy	GCF_002090195	trainSet_Ecoli	Escherichia_coli_CFT073.gb;Escherichia_coli_K12.gb;Escherichia_coli_O157-H7.gb;Escherichia_coli_O157-H7_EDL933.gb	trainSet_Ecoli.out								
+Koxy	NZ_CP020657	pp6	4704033.0	4721095.0	17063.0			PhiSpy	GCF_002090195	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Koxy	NZ_CP020657	pp7	4805250.0	4834354.0	29105.0			PhiSpy	GCF_002090195	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Koxy	NZ_CP020657	pp8	5325446.0	5357239.0	31794.0			PhiSpy	GCF_002090195	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Koxy	NZ_CP020657	pp9	5166464.0	5187467.0	21004.0			PhiSpy	GCF_002090195	trainSet_Ecoli	Escherichia_coli_CFT073.gb;Escherichia_coli_K12.gb;Escherichia_coli_O157-H7.gb;Escherichia_coli_O157-H7_EDL933.gb	trainSet_Ecoli.out								
+MR1	139	1	659021.0	702910.0	43889.0	intact(140)	genome_MR1.fna_out	PHASTER												
+MR1	139	2	1170781.0	1178691.0	7910.0	incomplete(60)	genome_MR1.fna_out	PHASTER												
+MR1	139	3	2788307.0	2822836.0	34529.0	intact(120)	genome_MR1.fna_out	PHASTER												
+MR1	139	4	3076443.0	3139054.0	62611.0	intact(150)	genome_MR1.fna_out	PHASTER												
+MR1	139	5	4772518.0	4780983.0	8465.0	incomplete(50)	genome_MR1.fna_out	PHASTER												
+MR1	139	Son1.52.DUF387+rluB	3074595.0	3126437.0	51843.0			TIGER_paper					DUF387+rluB	Phage1	CGGTATTTTCGGGTTTGAAAGTAACGCCTGAACAGTCAGAAGAGCAAGATactaatgagtgaTTTAAACACTATTGTTTCAGTATCATTCATTGTCTTACGTTTTTACGCTA	CGGTATTTTCGGGTTTGAAAGTAACGCCTGAACAGTCAGAAGAGCAAGATactaatgagtgaAAAATTGCAGAAAGTCTTGGCCCGTGCAGGCCATGGCTCCCGTCGTGAGA	TGCGAGGTGACAAAATCCTTGTTTTCAAAAAGAATTTTATTGAAGATATAactaatgagtgaAAAATTGCAGAAAGTCTTGGCCCGTGCAGGCCATGGCTCCCGTCGTGAGA		21573-18574	['Y-Int.12', 'Y-Int.13']
+MR1	140	6	2421.0	49609.0	47188.0	intact(140)	genome_MR1.fna_out	PHASTER												
+MR1	140	7	49651.0	88246.0	38595.0	intact(150)	genome_MR1.fna_out	PHASTER												
+MR1	140	8	104878.0	131964.0	27086.0	intact(140)	genome_MR1.fna_out	PHASTER												
+Marino	CP001978	1	671089.0	705729.0	34640.0	intact(150)	genome_Marino.fna_out	PHASTER												
+Marino	CP001978	2	1102863.0	1126158.0	23295.0	incomplete(60)	genome_Marino.fna_out	PHASTER												
+Marino	CP001978	3	2079156.0	2114787.0	35631.0	incomplete(50)	genome_Marino.fna_out	PHASTER												
+Marino	CP001978	Mad1.15.Z	3247571.0	3262505.0	14935.0			TIGER,Islander_paper					X	Phage2	AATAGAGAGACGCTAAACATGTAGACCTCAAGGCTGAGTACTGGCGGACGcgggttcaattcccgccgtctccaccaaacaaccaaGAGAAAGCCCCTGATTTCAGGGGCTTTTTTTATGCCTATTCAAGAAATGG	AATAGAGAGACGCTAAACATGTAGACCTCAAGGCTGAGTACTGGCGGACGcgggttcaattcccgccgtctccaccaaacaaccaaAAGGCCTCGTCCCACGACGAGGCCTTTTTTTGTGCCCTGCCAGAGTGGTC	GTTTTAACGGTGATAGTGGTTTGCTGTGTTGCTTCGAGAGCGTGCGACATcgggttcaattcccgccgtctccaccaaacaaccaaAAGGCCTCGTCCCACGACGAGGCCTTTTTTTGTGCCCGGCCAGAGTGGTC		482177-485176	Y-Int.7
+Marino	CP001978	Mad1.43.V	2066544.0	2110039.0	43496.0			Islander_paper					V	Phage1						Y-Int.6
+Marino	CP001978	pp1	365292.0	407339.0	42048.0			PhiSpy	22048	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Marino	CP001978	pp1	137114.0	177595.0	40482.0			PhiSpy	22048	trainSet_243277	Vibrio_cholerae_O1_biovar_eltor_str._N16961.gb	trainSet_243277.out								
+Marino	CP001978	pp4	972798.0	993974.0	21177.0			PhiSpy	22048	trainSet_243277	Vibrio_cholerae_O1_biovar_eltor_str._N16961.gb	trainSet_243277.out								
+Marino	CP001978	pp6	1750130.0	1761598.0	11469.0			PhiSpy	22048	trainSet_243277	Vibrio_cholerae_O1_biovar_eltor_str._N16961.gb	trainSet_243277.out								
+Marino	CP001978	pp8	2969788.0	2993661.0	23874.0			PhiSpy	22048	trainSet_243277	Vibrio_cholerae_O1_biovar_eltor_str._N16961.gb	trainSet_243277.out								
+Marino	CP001979	pp9	232.0	8224.0	7993.0			PhiSpy	22048	trainSet_243277	Vibrio_cholerae_O1_biovar_eltor_str._N16961.gb	trainSet_243277.out								
+Marino	CP001980	pp5	47.0	21662.0	21616.0			PhiSpy	22048	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Miya	254340	1	862570.0	881154.0	18584.0	questionable(70)	genome_Miya.fna_out	PHASTER												
+Miya	254340	2	882939.0	902336.0	19397.0	questionable(90)	genome_Miya.fna_out	PHASTER												
+Miya	254340	3	1560629.0	1569143.0	8514.0	incomplete(10)	genome_Miya.fna_out	PHASTER												
+Miya	254340	Dvu3.39.V	2016138.0	2055562.0	39425.0			Islander_paper					V	Phage1						Y-Int.1
+Miya	254340	pp1	90370.0	117314.0	26945.0			PhiSpy	Miya	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Miya	254340	pp5	3062464.0	3068823.0	6360.0			PhiSpy	Miya	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	3	1565367.0	1574900.0	9533.0	incomplete(60)	genome_PS.fna_out	PHASTER												
+PS	CP003153	Dsu1.192.N	2589907.0	2782267.0	192361.0			Islander_paper					N	PhageICE						['Y-Int.8', 'S-Core.3', 'S-Core.4', 'S-Core.2']
+PS	CP003153	Dsu1.43.trpG	174281.0	217348.0	43068.0			TIGER_paper					trpG	Phage1	GAAATGGCCGAAAACGGCCTCGATACCCGTTTCGAGTGAGGGCGCTGCCAtgctgctgatgatcgataacagcgaccagcATCCACAGTTGTCCATCGTCATCCACTAAAACGCCATGAAGCCCTTGCGG	CCGAGATGGCCGAAGCCGGCCTCGACACGCGTTTTGAATAGGAGGCTGCCatgctgctgatgatcgacaactacgacagcTTCACCTACAACCTGGTGCAGTACTTCGGCGAACTGGGCGAGGACGTCAA	TTTCAGAAGGCAGCGGCAGGGGCTAATAGAATCAAGGAGATGGCCTCAAAatgcttctgatgatcgacaactacgacagcTTCACCTACAACATCGTCCAGTACTTCGGCGAGCTGGGCCAGGATGTGCG		2985151-2988150	Y-Int.2
+PS	CP003153	pp1	52198.0	80253.0	28056.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	pp3	344163.0	375740.0	31578.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	pp4	705928.0	721050.0	15123.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	pp6	1752845.0	1772271.0	19427.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	pp7	1807005.0	1847216.0	40212.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PS	CP003153	pp8	2060523.0	2076405.0	15883.0			PhiSpy	CP003153	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PV4	113993	1	1138294.0	1159294.0	21000.0	incomplete(30)	genome_PV4.fna_out	PHASTER												
+PV4	113993	pp1	162374.0	196783.0	34410.0			PhiSpy	PV4	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PV4	113993	pp2	1548104.0	1585915.0	37812.0			PhiSpy	PV4	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PV4	113993	pp3	1962609.0	1995216.0	32608.0			PhiSpy	PV4	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+PV4	113993	pp4	4190118.0	4212835.0	22718.0			PhiSpy	PV4	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Pedo557	NZ_CP021237	1	872371.0	879443.0	7072.0	incomplete(10)	genome_Pedo557.fna_out	PHASTER												
+Pedo557	NZ_CP021237	2	1737184.0	1744670.0	7486.0	incomplete(60)	genome_Pedo557.fna_out	PHASTER												
+Pedo557	NZ_CP021237	3	2970077.0	2977991.0	7914.0	incomplete(10)	genome_Pedo557.fna_out	PHASTER												
+Pedo557	NZ_CP021237	87.comM	5051374.0	5137896.0	86522.0			TIGER_KW					comM	island	GGTTTTCGGTAGAATATCCAGCCAGCTTTATGTTGGTGGCCTCGATGAATccctgAGGTTGCGTGGACAATTATGCGCAGAACCGGGAAGATAGGTGAGCGCCAA	GGTTTTCTGTAGAGTATCCCGCAAGTTTTATGCTGGTTGCTTCGATGAATccatgCCCATGCGGCTTTTATAACCATCCCGAAAAAGATTGTGTATGTGCTCCCG	TGGCATTGGTTTGTTGACTTTTCGCTTAAAATTGACAAAAGGCAACGCAAccatgTCCTTGCGGCTTTTATAATCACCCGGAGAAAGATTGTGTTTGCGCTCCTG	NZ_JSYN01000007.1	66075-66081	S-Int.1
+Pedo557	NZ_CP021237	pp1	426461.0	454367.0	27907.0			PhiSpy	GCF_002151545	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Pedo557	NZ_CP021237	pp3	1599378.0	1620946.0	21569.0			PhiSpy	GCF_002151545	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Pedo557	NZ_CP021237	pp4	4207244.0	4244790.0	37547.0			PhiSpy	GCF_002151545	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Pedo557	NZ_CP021237	pp6	5751714.0	5771424.0	19711.0			PhiSpy	GCF_002151545	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Phaeo	PGA1_c	1	201730.0	209608.0	7878.0	questionable(70)	genome_Phaeo.fna_out	PHASTER												
+Phaeo	PGA1_c	2	1852047.0	1867669.0	15622.0	incomplete(20)	genome_Phaeo.fna_out	PHASTER												
+Phaeo	PGA1_c	Pga2.39.L	1900535.0	1939494.0	38960.0			TIGER,Islander_paper					L	Phage1	GGGTCAGCCCATCGTCAGGATGCGGGTGTGGCGGAATTGGTAGACGCACCagatttaggttctggcgccgcgaggcgtgggggttcgagtcccttcacccgcaccactttGATTTTCATGTGAAAAACAGAAGCTGCAGAGCGTGCCTAAAAATGGGCGC	GGGTCAGCCCATCGTCAGGATGCGGGTGTGGCGGAATTGGTAGACGCACCagatttaggttctggcgccgcaaggcgtgggggttcaagtcccttcacccgcaccattttTTCTCAGTTCAACTAGACTGAGGCGGCCTTGGTTCGTCGCGTACTCGGGC	TGTCTGGGGAAACTCAGATGCTAAGCCGCTGAAATCTATCAATCCACGCGagatttaggttctggcgccgcaaggcgtgggggttcaagtccctccacccgcaccattttTTCTCAGTTCAACTAGATTGAGGCGGCCTTGGTTTGTCGCGTACTCGGGC		631180-634179	Y-Int.2
+Phaeo	PGA1_c	Pga2.40.G	2303075.0	2342919.0	39845.0			TIGER,Islander_paper					G	Phage1	AGCGGGTATGGTGAAATGGTATCATAAGAGCCTTCCAAGCTTAAGGTGCGggttcgattcccgctacccgctccagTGGATCTCTTTTTTGAATTTAAAATCCTTATAAAACATAGCGTTAGCATG	AGCGGGTATGGTGAAATGGTATCATAAGAGCCTTCCAAGCTTAAGGTGCGggttcgattcccgctacccgctccagGACATCCCATATCAGCTGATATCTTGTTGTGTTCGCGTTGTATTTTCACC	GCACCACACAATTTTAGTTATATATATTAATAACAGAAACTTAAGGAATAggtacgattcccgctacccgctccagGACATCCCATATCAGCTGATATCTTGTTGTGTTCGCGCTGTATTTTCACC		239188-242187	Y-Int.5
+Phaeo	PGA1_c	pp1	146534.0	181604.0	35071.0			PhiSpy	Phaeo	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Phaeo	PGA1_c	pp2	608402.0	630874.0	22473.0			PhiSpy	Phaeo	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Phaeo	PGA1_c	pp3	1080955.0	1101835.0	20881.0			PhiSpy	Phaeo	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Phaeo	PGA1_c	pp7	2370962.0	2386054.0	15093.0			PhiSpy	Phaeo	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Ponti	CP021235	1	682723.0	691807.0	9084.0	incomplete(10)	genome_Ponti.fna_out	PHASTER												
+Ponti	CP021235	2	2677558.0	2700656.0	23098.0	questionable(70)	genome_Ponti.fna_out	PHASTER												
+Ponti	CP021235	20N	3729040.0	3748906.0	19867.0			Islander_KW					N	island						Y-Int.4
+Ponti	CP021235	3	3010529.0	3019482.0	8953.0	incomplete(40)	genome_Ponti.fna_out	PHASTER												
+Ponti	CP021235	31R	4649018.0	4680245.0	31228.0			Islander_KW					R	island						Y-Int.6
+Ponti	CP021235	4	4159082.0	4166668.0	7586.0	incomplete(10)	genome_Ponti.fna_out	PHASTER												
+Ponti	CP021235	pp1	2231736.0	2257082.0	25347.0			PhiSpy	CP021235_6	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Ponti	CP021235	pp2	4336348.0	4349229.0	12882.0			PhiSpy	CP021235_6	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Ponti	CP021235	pp3	4471856.0	4531387.0	59532.0			PhiSpy	CP021235_6	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+SB2B	248323	1	2699039.0	2708092.0	9053.0	incomplete(10)	genome_SB2B.fna_out	PHASTER												
+SB2B	248323	2	2708203.0	2715392.0	7189.0	incomplete(20)	genome_SB2B.fna_out	PHASTER												
+SB2B	248323	pp1	230961.0	268042.0	37082.0			PhiSpy	SB2B	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+SB2B	248323	pp3	4005077.0	4023799.0	18723.0			PhiSpy	SB2B	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Smeli	NC_003037	1	391032.0	396853.0	5821.0	incomplete(40)	genome_Smeli_2.fna_out	PHASTER												
+Smeli	NC_003037	pp4	573878.0	589337.0	15460.0			PhiSpy	Smeli	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Smeli	NC_003037	pp5	656023.0	680650.0	24628.0			PhiSpy	Smeli	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Smeli	NC_003047	1	2281869.0	2288918.0	7049.0	incomplete(40)	genome_Smeli_1.fna_out	PHASTER												
+Smeli	NC_003047	2	2506861.0	2514837.0	7976.0	incomplete(10)	genome_Smeli_1.fna_out	PHASTER												
+Smeli	NC_003047	pp1	670768.0	750687.0	79920.0			PhiSpy	Smeli	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+Smeli	NC_003047	pp2	1463089.0	1501952.0	38864.0			PhiSpy	Smeli	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+SynE	NC_004990	pp4	1.0	7835.0	7835.0			PhiSpy	SynE_refseq	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+SynE	NC_007604	1	711254.0	759932.0	48678.0	intact(150)	genome_SynE.fna_out	PHASTER												
+SynE	NC_007604	pp2	1065228.0	1080773.0	15546.0			PhiSpy	SynE_refseq	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+SynE	NC_007604	pp3	2284391.0	2305791.0	21401.0			PhiSpy	SynE_refseq	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	1	1276815.0	1297309.0	20494.0	intact(120)	genome_WCS417.fna_out	PHASTER												
+WCS417	CP007637	18.R	181020.0	198785.0	17765.0			TIGER_KW					R	island	GCTGGATAGAGTACTGCCCTCCGAAGGCAGGGGTCGTGGGTTCGAATCCCgccgggtgcaccatatagcagTCTCGGGCTGTCTCAGACAGTCTACGAAACACCCCAAGAAGCCCGCCCCG	AGCTGGATAGAGTACTGCCCTCCGAAGGCAGGGGTCGTGGGTTCGAATCCcgccgggtgcaccagatacagATGAAAAAGCCCCAGGTCGAAAGACCTGGGGCTTTTTTGTGCCTGCCGAT	CACCAAAGAAACCCAATAAATACTGGCACCTTGCCGCCCAGTTCAAACGAcgccgggtcaccagacataacAAGAAAGCCCCAGCTCAAAACACCTGGGGCTTTTTTACGCGCAGCGATTC	NZ_MDFI01000024.1	65718-65698	Y-Int.1
+WCS417	CP007637	32.dus	1704254.0	1736545.0	32291.0			TIGER_KW					dus	island	CAGAGCTTTAGCCCAGCAGAATCAAGCCCCGCACTGTCTCGGCGCTTTAGcgttgcacctatgatggatgggatcgacAAACCCGCCTGAAAGGCTTGATTTTACTGGCCTGCCGCAGATCTTCCAGA	CAGAGCTTTAGCCCAGCAGAATCAAGCCCCGCACTGTCTCGGCGCTTTAGcgttgcacctatgatggactggaccgacCGCCACTGCCGGTTCTTCCTGCGCCTGCTCTCCAAGCACGCCCTGCTCTA	CGCTAGAAAAAAACACCTATGAATCAACAAGTTATGTCGCGCAGATTTTCcgtcgccccgatgatggactggaccgacCGCCACTGCCGGTTCTTCCTGCGCCTGCTCTCCAAGCACGCCCTGCTCTA	NZ_JH635997.1	4480839-4480810	Y-Int.3
+WCS417	CP007637	60.queD	2131435.0	2191736.0	60301.0			TIGER_KW					queD	phage_man	TCAAGCTGTTAAACTCGCCGCCTGCCAGACACCGACCGAGCTGAAAACACtgtggaaatcttcaagaattCCACGGTAGCCTCCCGCCACAAACCGCCTCGCATCACCATCTCCATGAGC	CAAGCTGTTAAACTCGCCGCCTGCCAGACACCGACCGAGCTGAAAACACTgtggaaatcttcaaggaattTACATTCGAATCCGCACACCGCCTGCCCCACGTACCGGAAGGCCATAAAT	AGCTGACAATCGCACAAAGCCCTTTAAAACCCTGCCCTACAGGTTATACCgtggaaatcttcaaggaattTACATTCGAATCCGCCCACCGCCTGCCCCACGTACCGGAAGGCCATAAAT	NZ_JRMC01000007.1	306174-306155	Y-Int.4
+WCS417	CP007637	68.prtR|Isochorismatase	5390359.0	5458639.0	68280.0			TIGER_KW					prtR|Isochorismatase	phage_man	GATTTGAAGGCTGGTGAGGCTTGTCAAAAACAAGCTGAAGCAGTCCCCGAgaagccggccacaagccggctttttaatTGTCCGAAATAATCCTATCCCATCCGAGAATCTTCCTGATAGCTTAGCTA	GATTTGAAGGCTGGTGAGGCTTGTCAAAAACAAGCTGAAGCAGTCCCCGAgaagccggccacaagccggctttttaatGCCCGCATGAACCCCAAGTCAATTGTCCGACAAGCCGTTGGACATTTGAA	AATTTATACAACCGTGAAAGCCAAGCAAAACAAGGCTAGAACCAAATAATgacgccgcccacaagccggctttttaatGCCCGCATGAACCCCAAGTCAATTGTCCGACAAGCCGTTGGACATTTGAA	NZ_JH635997.1	354731-354760	Y-Int.11
+WCS417	CP007637	9.T	317006.0	325854.0	8848.0			TIGER_KW					T	island	TCAGTTGGTAGAGCAACTGACTTGTAATCAGTAGGTCCCGGGTTCGACTCctggtgccggcaccaCATTAGGCTCCATTGCATTCCACCGAATGCTCTGGAAGCCCCGAAAACCC	TCAGTTGGTAGAGCAACTGACTTGTAATCAGTAGGTCCCGGGTTCGACTCctggtgccggcaccaTACAAAACGAAGCCCTCGCAGAAATGCGAGGGCTTTGTTGTTTCTGGGGT	CGACTTCCAGACCCGCAGAAAACCTAGCCTCCCCGAAACATACCGTTCGTctggtgccgcaccatACAAAACGAAGCCCTCGCAGAAATGCGAGGGCTTTGTTGTTTCTGGGGTT	NZ_AVQG01000017.1	84768-84754	Y-Int.2
+WCS417	CP007637	pp10	5498298.0	5546511.0	48214.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp11	5757134.0	5768168.0	11035.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp3	3620632.0	3644758.0	24127.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp4	3936102.0	3949717.0	13616.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp5	4279674.0	4306364.0	26691.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp6	4642232.0	4646853.0	4622.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp7	4843136.0	4865792.0	22657.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+WCS417	CP007637	pp8	5021967.0	5027567.0	5601.0			PhiSpy	CP007637	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/1	pp1	200272.0	219726.0	19455.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/15	pp2	23991.0	46109.0	22119.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/16	184P	633134.0	817610.0	184477.0			Islander_KW					P	island						Y-Int.3
+acidovorax_3H11	scaffold5/16	pp3	87362.0	107255.0	19894.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/16	pp4	362984.0	377997.0	15014.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/16	pp5	831649.0	846249.0	14601.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/16	pp6	1103569.0	1135579.0	32011.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/19	pp7	9020.0	27878.0	18859.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/22	pp8	1.0	3466.0	3466.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/24	pp9	193.0	5223.0	5031.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/28	pp10	1.0	2810.0	2810.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/3	pp11	1.0	7032.0	7032.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/32	pp12	83818.0	103099.0	19282.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/34	116R	15087.0	131181.0	116095.0			Islander_KW					R	island						Y-Int.6
+acidovorax_3H11	scaffold5/38	55.DUF917	1073.0	55949.0	54876.0			TIGER_KW					DUF917	island	AGCGGTTTGAAGACGCCACCCGGCTGCGCCACCTGGTGCAAAGCCGGTTTgaagagtcccagcaccgccaggctgctgtgcgtgacgtctttggtcgcgctgtgccgctgtcccgcgtggtggctgggcggtacgaagaggcgcgcaagctgcccccgggcatcagcgcgccagtgcaaccacccatccaaacgccttgctacgtgcccgtgctgcctgcgcacctggtgtttgaagacctggccgacagcagcttgccagcgggcctggtgtttgtgtgcgatggccatgggcccgggccAGACCCTGAGCCGCCGCAGTTCGTTATTCCACTCTTGAGGATCTACATGA	AGCGGTTTGAAGACGCCACCCGGCTGCGCCACCTGGTGCAAAGCCGGTTTgaggaagcccagcaccgccaggctgctgtgcgtgacgcctttggccgcgcggtgccgctgtcccgcgtggtggccgtccggtatgaggaggcccgcaagctgcccccaggcgtcagtgcgccagtgcagccgcctatcgaaacgccttgctacgtacccgtcctgcccgcgcacctggtgtttgatgacctggccgacagcagactgccagcgggcctggtgtttgtgtgcgatggccatgggcctgggccGCAGCCTGGCGAAACCATCGTTGTCCCTGTTCGAAGGACCTACATCGTGA	TGGCCCTCCAACGCTGGCAACCAGTTTGCGTTGTCAGGCAGCTACATCCCgggcacgctggagcaggcgcgccagctgggcctgcagctcttgcaggccgtcacgccgctgagcacccaggcggtggcggcgggcattgaggagatcaccggccgcgccgcgcgtgccgtggtcagcaacttctatatcacctcggtcacgcagtccacctccagtgcgtcactggattcgggcatcatccggctggacaatgcgccggacccggcccagagcaccgaaacgcactacctctacaacctcaACGAGAACCTGATCATGTATTCGGCGGCGAGCACCACCCCCGACATCATT	NZ_LUKZ01000029.1	55822-56074	S-Core.1
+acidovorax_3H11	scaffold5/4	pp15	1.0	4954.0	4954.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/5	7S	49401.0	56037.0	6637.0			Islander_KW					S	island						Y-Int.1
+acidovorax_3H11	scaffold5/6	pp16	9381.0	27791.0	18411.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+acidovorax_3H11	scaffold5/8	1	210.0	33972.0	33762.0	questionable(90)	genome_acidovorax_3H11.fna_out	PHASTER												
+acidovorax_3H11	scaffold5/9	pp18	1.0	4585.0	4585.0			PhiSpy	GCF_001633105	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016594	Abr1.50.K	149047.0	199326.0	50280.0			TIGER,Islander_paper					K	Phage1	AACAGGCCGCATGCTTTTGTGATCCGGTAGCTCAGTCGGTAGAGCACGTGacttttaatcatgtggccgtgggttcgaatcccacccggatcaccattcccctcaatgacttagGGCAAGTTTGAGGCCCTGATTTTCCCCCGGTTTGCAATCCAATCACCGGC	AACAGGCCGCATGCTTCTGTGATCCGGTAGCTCAGTCGGTAGAGCACGTGacttttaatcatgtggccgtgggttcgaatcccacccggatcaccattctccttaatgacttagCGGTATAACGGGGCATCCGTTCAGACTCCCCTGGCAAGCCCGCCCTTGGA	CAATTCCAGAATTCTGCAAACCAGCTTTGATTTCACAATATTTGCAGACAacttttaatcatgtggtcgtgggttcgagtcccacccggatcaccattcccctcaatgggttagCGGTTTAACGGGGCATCCGTTCAGATTCCCCCTGCAAACCGGCCGGTGGC		709446-712445	['Y-Int.1', 'Y-Int.2']
+azobra	NC_016594	pp6	744815.0	761944.0	17130.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016594	pp7	1561500.0	1570625.0	9126.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016595	2	601155.0	627829.0	26674.0	questionable(90)	genome_azobra_2.fna_out	PHASTER												
+azobra	NC_016596	pp10	497613.0	503667.0	6055.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016617	Abr1.39.HYP	2880579.0	2919331.0	38753.0			TIGER_paper					HYP	Phage2	ATATGTCGGCGCCGACGAGCTGCCCTGGCGCGGCACCCAGGCCAAGCGCTggctgggcacgctgtggatgcccTACTGCGGCGCCTATTGATTTTATTGGGAAATTTCCGCGTGTAGCTGTGA	ATATGTCGGCGCCGACGAGCTGCCCTGGCGCGGCACCCAGGCCAAGCGCTggctgggcacgctgtggatgcccCATTCCGGTCTGAAGGCGGAGAGCGGCGTGCGCCTGTGCCACTGGTACCA	CGCGACTCGGCAACGCAAGCGGAACACAGCCTATAAAAAACAATCACTTAggcgggcacgctgtggatgccccATTCGGGCCTGAAGGCGGAGGGAGGCGTTCGGCTGTGCCACTGGTACCAC		651929-654928	Y-Int.10
+azobra	NC_016617	pp1	1257756.0	1262201.0	4446.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016617	pp2	1514334.0	1545851.0	31518.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016617	pp3	2384433.0	2423187.0	38755.0			PhiSpy	GCF_000237365	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+azobra	NC_016618	1	652579.0	670120.0	17541.0	incomplete(50)	genome_azobra_2.fna_out	PHASTER												
+psRCH2	Psest_Contig44	pp12	318.0	9855.0	9538.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig45	pp11	753.0	12753.0	12001.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	11.Putative_GTP_cyclohydrolase_1_type_2	3317084.0	3328258.0	11174.0			TIGER_KW					Putative_GTP_cyclohydrolase_1_type_2	island	GCCACTTCGCCTGCCGAACGAGGCCGGTTTCATCTGCACGGAGAGGTCGAtgtacaagctgtgcttctaGCTGTAATACGAAAAATGCTTGTATTTCAGTTGGTTAAGACGCTGCTCGT	CCACTTAGCCCGACAGATCGAGGTCGGTTTCATCTGCATGGAGAGGTCGAtgtacaagctgtgtttctaTGTTCCAGACAGTCATCTGGAAGCGGTCAAGAAAGCAGTGTTCGCCGCGG	AGGGCGCACCCCTTGAAGGCCGCATATTTTCTGGGTTGGAGGTGATAATTtgtacaagctgtgcttctaTGTTCCAGACAGTCATCTGGAAGCGGTCAAGAAAGCAGTGTTCGCGGCTG	NZ_CP007509.1	3440448-3440428	Y-Int.11
+psRCH2	Psest_Contig47	11.U	4292866.0	4303770.0	10904.0			TIGER_KW					U	island	TCAGCCCTGGGTTAGGCTGGTCGCCGCTTCCTCTTCGGCGTCTCGACAAGataaggaaggcaatcgcacccggtggtgcggccgggcttcaaatcctgttTAGCGTGAGTCATCAATGGACTACGTTGGTCAAAACCGGTGTTCTGCGAA	TCAGCCCTGGGGTAGGCTGGTCGCCGCTTCCTTTCCCACATCAAGACCAGataaggaaggcaatcgcacccggtggtgcggccgggcttcaaacccggttGGGGGCGGCAGCCGCTCCCGGGTGAGTTCGACTCTCACTGCCTTCCGCCA	CACTCCCGCCTCTGAGCGACAGTCGGGGCAGGAAATTCCTTTGTAAATCAataaggaaggcaatcgcacccggtggtgcggccgggcttcaaacccggttGGGGACGGCAGCCGTTCCCGGGTGAGTTCGACTCTCACTGCCTTCCGCCA	NZ_JVNQ01000082.1	5558-5607	Y-Int.16
+psRCH2	Psest_Contig47	13.G	3232449.0	3245057.0	12608.0			TIGER_KW					G	island	TGAGCGGGCGTCGTATAATGGCATTACCTGAGCTTCCCAAGCTCATGACGagggttcgattcccttcgcccgctccagACACCTATCGTTAAGGCCCTGTTTTTACAGGGCTTTTTCGTTTCTGGCTT	TGAGCGGGCGTCGTATAATGGCATTACCTGAGCTTCCCAAGCTCATGACGagggttcgattcccttcgcccgctccagTCTTTAAGGCCCTGCTTGCGCGCGGGGCCTTTTCATTTGCGGTCGGGCAA	CGGAAACCGCATAACGACACGCTTTGCGACGGAACGACACACTAAGCAAAagggttcgattcccttcgcccgctccagTCATCGAAGGCCCTGCTTATGCGCGGGGCCTTTTCATTTGTGCCGGCGGA	NZ_LWEF01000151.1	38427-38456	Y-Int.10
+psRCH2	Psest_Contig47	13G	3232451.0	3245057.0	12607.0			Islander_KW					G	island						Y-Int.10
+psRCH2	Psest_Contig47	14.ychF	1185440.0	1199415.0	13975.0			TIGER_KW					ychF	island	AAGGCAAGGAATACATCGTCAAGGACGGCGACGTGATGCACTTCCGCTTCaacgtctgaCGATTTTTTCTGATCTCGGGAGCGTTCAGTAGCGCTCAGTGGACTGAGCA	AAGGCAAGGAATACATCGTCAAGGACGGCGACGTGATGCACTTCCGCTTCaacgtctgaGTACGCTCGACGCTCGCCTGAAGGCCCCGACTCGTCGGGGCCTTTTCGTT	CCTAGTGCTCCCGGGCCTTTGCCGACCGATCAACGTTTAAACGTGTGATTaacgtctagTCCGTCAGGCACTCGGCTGAAGGCCCCGACTCGTCGGGGCCTTTTCGTTT	NZ_LDWB01000029.1	52813-52803	Y-Int.8
+psRCH2	Psest_Contig47	29.ABC_tran	3572714.0	3601982.0	29268.0			TIGER_KW					ABC_tran	island	ATGGCTTGGGTCAGGCATCCTTCACCACTGTCACGGGCATCAGTTTCCATggctcaatGATTTTATCTACGCTATTAAATTTTAGTCACGTATTACGATCTGCACTCG	ATGGCTTGGGTCAGGCATCCTTCACCACTGTCACGGGCATTCGTTTCCATggctcaatACGTCTACACCATGCACCGGCTGAGCAAGGTCGTTCCGCCGAAGCGTGAG	GATTAAAGGCGAATCAAACCATGTCAAAAAGTGACAAAGCAGGCAAAACAggctcttaCGTCTACACCATGCACCGGCTGAGCAAGGTCGTTCCGCCGAAGCGTGAGA	NZ_CP007509.1	905798-905805	Y-Int.14
+psRCH2	Psest_Contig47	31T	4192884.0	4223737.0	30854.0			Islander_KW					T	island						Y-Int.15
+psRCH2	Psest_Contig47	60.hrpB	629501.0	689493.0	59992.0			TIGER_KW					hrpB	island	ACGACCCGGCGCTGGAAGGCGTCGGCATGGTGATCTTCGACGAATTCCACgTTTTGCTAAATGCGCAGGAAGTCGCATTGTCTTGTCAGAAAAGCCAGCCA	ACGATCCGGCACTGGAAGGCGTCGGGCTGGTGATCTTCGACGAATTCCACgAGCGCAGCCTGGATGCGGATCTGGCCCTGGCGCTGACGCTCAATGCGCGT	TGCTGGGTTTAGGTATCTAATGATAAATCCATGCGAATGGCAAAATGCGTgAGCGCAGCCTGGATGCCGACCTGGCTCTCGCACTGACGCTCAATGCGCGG	NZ_LWEF01000087.1	326022-326022	Y-Int.4
+psRCH2	Psest_Contig47	72.Z	957941.0	1029571.0	71630.0			TIGER_KW					Z	island	CAGTAGATCTGGCTAAGCATGTAGAACCGATAGCGGAGAGCTGGCGGACGggggttcaaatccccccggctccaccaaTTCAACACTGAAACCCGTCTAGAACGCGGGTTTCAGGCCAGATTTGATGG	CAGTAGATCTGGCTAAGCATGTAGAACCGATAGCGGAGAGCTGGCGGACGggggttcaaatccccccggctccaccaaACACGAAGCCCCGAGAATCTTGAGATTCTCGGGGCTTTTTCTTTGCGCTG	TTTCTTGCATAATGCGCTGAAGCCTTGATTTGGCCGGGATATTGAAGTTTgggattcaaatccccccggctccaccaaATGCAAAGCCCCGAGAATCTTGAGATTCTCGGGGCTTTTTCTTTGCGCTG	NZ_JMFZ01000011.1	92701-92674	Y-Int.7
+psRCH2	Psest_Contig47	72Z	957941.0	1029569.0	71629.0			Islander_KW					Z	island						Y-Int.5,Y-Int.7,Y-Int.6
+psRCH2	Psest_Contig47	8.T	3090785.0	3099005.0	8220.0			TIGER_KW					T	island	CCCGATAATCCGCCACCGGCGCCGGTGTAGCTCAGTAGGTAGAGCAGCGCattcgtaatgcgaaggtcgcaggttcgactcctgtctccggcaccaatgaaatcaaagGGTTAGCTTCGGCTAGCCCTTTTGTTTTTGGGCCGGTGTCTCACAAGTGT	CCGATAATCCGCCGCCTGGCGCCGGTGTAGCTCAGTAGGTAGAGCAGCGCattcgtaatgcgaaggtcgcaggttcgactcctgtctccggcaccacagaactcaaagCCCGCAGCGATGCGGGCTTTTTTCGTTTTATGGGCGCTGTTGGCGTGGCG	GAGGTCCCGATTTTACTGACTTCCAGCTTCTGCCGAGGGAAGTGGCGCTTattcgtaatgcgaaggtcgcaggttcgactcctgtctccggcaccaatgaaatcaaagGCCCGCAGCTATGCGGGCCTTTTTTGTTTCCGGCAATCGGAGCGGACGTT	NC_015740.1	1453788-1453729	Y-Int.9
+psRCH2	Psest_Contig47	8T	3090811.0	3099029.0	8219.0			Islander_KW					T	island						Y-Int.9
+psRCH2	Psest_Contig47	pp1	101350.0	115076.0	13727.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp10	4551006.0	4575054.0	24049.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp12	3412231.0	3467505.0	55275.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp14	4055808.0	4066984.0	11177.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp15	4113250.0	4126158.0	12909.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp2	885756.0	898018.0	12263.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp3	822152.0	829478.0	7327.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp3	1355116.0	1369927.0	14812.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp4	1827866.0	1867292.0	39427.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp5	2347508.0	2384845.0	37338.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp6	1538022.0	1556772.0	18751.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp7	1583093.0	1605133.0	22041.0			PhiSpy	psRCH2	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+psRCH2	Psest_Contig47	pp8	3745477.0	3802360.0	56884.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+psRCH2	Psest_Contig47	pp9	4333168.0	4353913.0	20746.0			PhiSpy	psRCH2	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo13_GW456_L13	scaffold1/0|quiver|pilon	1	1288183.0	1296003.0	7820.0	incomplete(40)	genome_pseudo13_GW456_L13.fna_out	PHASTER												
+pseudo13_GW456_L13	scaffold1/0|quiver|pilon	10.J	1309305.0	1318954.0	9649.0			TIGER_KW					J	island	GCTATAATCCGCGACCTACTGAGGGCCTATAGCTCAGTTGGTTAGAGCAGaggactcataatcctttggtccacggttcaagtccgtgtgggcccaccaaTAGAATCAACAGATTAGGCCAACCCCTGCGGTTGGCCTTTTCTGTTTCTG	GTTATAATCCGCGGCCTACTGAGGGCCTATAGCTCAGTTGGTTAGAGCAGaggactcataatcctttggtccacggttcaagtccgtgtgggcccaccaaACAAGAAAGCCGCGTTTTTACGCGGCTTTTTCGTGTCTGACGTTTAGTTT	AAAGCCATATTCTATCAACGTTTCGGGATATTTTGGGATAGCCACTTGGCaggactcataatcctttggtccacggttcaagtccgtgtgggcccaccaaACAAGAAAGCCGCGCAATGCGCGGCTTTTTCGTGCCTGGCGTTTAGTTTT	NZ_AKJJ01000037.1	43589-43538	Y-Int.2
+pseudo13_GW456_L13	scaffold1/0|quiver|pilon	2	3059904.0	3103226.0	43322.0	intact(150)	genome_pseudo13_GW456_L13.fna_out	PHASTER												
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	1	3500418.0	3528440.0	28022.0	intact(150)	genome_pseudo1_N1B4_1.fna_out	PHASTER												
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	12.bfd|bfr	849731.0	861957.0	12226.0			TIGER_KW					bfd|bfr	island	CTCCTACCCCGCAGAATTTACCGCCGCATAACTACCGTATTTCAAAGAACcggacttgatgtccgACTATAAATAGCTAGAAACTCAAAATAATTCGATAAAAAACAAGGGCTTG	CCCCTACCCCGTAGAATTTACCGCCGCATAACTACCGTATTTCAAAGAACcggacttgatgtccgGTTTTTTTATGTCTGCAAATCAATCGCTTAGATGCCAGACGCGGAACAAA	CACATATAGGTTTATTAAGCTGTGGTAACCAGCGGTAAACAGTGCCCCCTcggacttgatgtccgGTTTTTTTATGTCTGGAAATCAATCGCTTAGGCTCTAGACGCGGAACAAA	NZ_LFQK01000030.1	50876-50892	Y-Int.3
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	18.L	3361303.0	3378919.0	17616.0			TIGER_KW					L	island	TGGTAGACGCGGCGGATTCAAAATCCGTTTTCGAAAGGAGTGGGAGTTCGagtctccctcggggcaccaTATAGCAGTATCTGAAAGTCTCTACCAGACTCTCAGACCCAGAGAAACCG	TGGTAGACGCGGCGGATTCAAAATCCGTTTTCGAAAGGAGTGGGAGTTCGagtctccctcggggcaccaAAATTAAGAAAGGTCTTGCTTTGCAAGGCCTTTTTTTTCGCCTATAGAAA	TCCCTTCGTTTAAAATGTCTCTGCAGACCGCAGCCCATATGGAACACTCCagtctccctcgggcaccaaAATTAAGAAAGGTCTTGCTTTGCAAGGCCTTTTTTTTCGCCTGTAGGAAA	NZ_AKJE01000060.1	11308-11290	Y-Int.5
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	18L	3361306.0	3378921.0	17616.0			Islander_KW					L	island						Y-Int.5
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	47.tmk	491592.0	538682.0	47090.0			TIGER_KW					tmk	island	TCCGTCCGGCGCTGGCCCGTGGCGCGGTAGTCCTGTGCGATCGCTTTACCgCGACGTTAGTTCCGGTAGATCGCCTATGTAAACCTTTCGGAAATAGCCAT	TCCGTCCGGCGCTGGCCCGTGGCGCGGTAGTCCTGTGCGATCGCTTTACCgATTCGACTTATGCCTATCAGGGCGGTGGGCGCGGTTTGTCGCTGGAGCGC	AAAACGAAACTAATAGGTCTATGTTTACATTTATCTCCGACCGGAAACAAgATTCGACTTATGCCTATCAGGGCGGTGGGCGCGGTTTGTCGCTGGAGCGC	NZ_AKJE01000013.1	27707-27705	Y-Int.1
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	9.M	3254752.0	3264002.0	9250.0			TIGER_KW					M	island	TACATAGCTCAGTTGGTTAGAGCATAGCATTCATAATGCTGGGGTCCGGGgttcaagtccctgtgtagccaccaagtacCGATTTATAGAGATCCAAGGATGTCTATAAATCACCTCAAGAAGCCCGCC	TACATAGCTCAGTTGGTTAGAGCATAGCATTCATAATGCTGGGGTCCGGGgttcaagtccctgtgtagccaccaagtacTAAAAACGGCTTACCGAAAGGTAGGCCGTTTTTTTATGCCTCGAGAAAAG	AGTAAAATTAAAAGCACTAAACTATTTAGATACAGTGCATTAGGAATCTTgttcaaatgactgtgtaccaccaagtactAAAAACGGCTTACCGAAAGGTAGGCCGTTTTTTTATGCCTCGAGAAAAGT	NZ_AKJE01000083.1	18495-18467	Y-Int.4
+pseudo1_N1B4	unitig_2|quiver.unitig_0|quiver.unitig_1|quiver|pilon	pp7	717231.0	738384.0	21154.0			PhiSpy	GCF_001625455	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo1_N1B4	unitig_3|quiver|pilon	pp2	495936.0	519587.0	23652.0			PhiSpy	GCF_001625455	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+pseudo1_N1B4	unitig_4|quiver|pilon	1	122000.0	128150.0	6150.0	incomplete(10)	genome_pseudo1_N1B4_2.fna_out	PHASTER												
+pseudo1_N1B4	unitig_4|quiver|pilon	pp2	26901.0	102929.0	76029.0			PhiSpy	GCF_001625455	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo1_N1B4	unitig_4|quiver|pilon	pp3	149280.0	164773.0	15494.0			PhiSpy	GCF_001625455	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo1_N1B4	unitig_4|quiver|pilon	pp4	233540.0	245247.0	11708.0			PhiSpy	GCF_001625455	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo1_N1B4	unitig_4|quiver|pilon	pp5	290418.0	296386.0	5969.0			PhiSpy	GCF_001625455	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo3_N2E3	CP012830	1	17923.0	51872.0	33949.0	intact(91)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	118.GntR|yjiR	5309852.0	5427708.0	117856.0			TIGER_KW					GntR|yjiR	island	GGCAACTGGCGGACCGGTTGAACGTGTCGATTTCAACTATCCAGTACGCCtaACTACTCCCGATTGTCAACGACCATGTAAAAAATAATTATTTGCCACCAA	GGCAGCTGGCAGACCGCTTGAGCGTGTCGATTTCAACTATTCAGTACGCCtaTTCGCTGCTGGAGAAAGAAGGGCGGGTGTATTCGGTAGCAAAGTCCGGCT	ATTGAGTTTTGGCAGCCAACTGATTACGGTTTGTTGTATGCAGTATGGAAtaTTCGCTGCTGGAGAAAGAAGGGCGAGTGTATTCGGTGGCAAAGTCCGGCT	NZ_AFOY02000015.1	1031838-1031839	Y-Int.4
+pseudo3_N2E3	CP012830	2	3691904.0	3724269.0	32365.0	intact(150)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	3	4574256.0	4583177.0	8921.0	questionable(70)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	4	5731465.0	5757738.0	26273.0	incomplete(60)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	5	5758298.0	5783796.0	25498.0	questionable(90)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	6	5788262.0	5797956.0	9694.0	incomplete(20)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	7	5936673.0	5961981.0	25308.0	incomplete(40)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo3_N2E3	CP012830	8	5958744.0	5981806.0	23062.0	intact(100)	genome_pseudo3_N2E3.fna_out	PHASTER												
+pseudo5_N2C3_1	CP012831	1	426222.0	473442.0	47220.0	intact(150)	genome_pseudo5_N2C3_1_half1.fna_out	PHASTER												
+pseudo5_N2C3_1	CP012831	1	4562365.0	4606945.0	44580.0	intact(150)	genome_pseudo5_N2C3_1_half2.fna_out	PHASTER												
+pseudo5_N2C3_1	CP012831	140P	65250.0	204909.0	139660.0			Islander_KW					P	island						Y-Int.1
+pseudo5_N2C3_1	CP012831	2	1265541.0	1299394.0	33853.0	intact(150)	genome_pseudo5_N2C3_1_half1.fna_out	PHASTER												
+pseudo5_N2C3_1	CP012831	pp7	5833901.0	5855516.0	21616.0			PhiSpy	CP012831	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	1	3483333.0	3520723.0	37390.0	intact(150)	genome_pseudo6_N2E2.fna_out	PHASTER												
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	33.L	1460185.0	1492778.0	32593.0			TIGER_KW					L	island	CTACCGCCCGAATGGCGAAACTGGTAGACGCATGGGACTTAAAATCCCCCgctcgtaagggcgtgccggttcgattccggcttcgggcaccaataGTATGATTTCAGATGTTCCCGTAAACATCTGAAACCTAGAGAAACCGGCC	TACCGCCCGAATGGCGAAACTGGTAGACGCATGGGACTTAAAATCCCCCGctcgtaagggcgtgccggttcgattccggcttcgggcaccatataAAACAAAGGGTTGCGTGAGATATCTCAGGCAACCCTTTTTTGTTTGCGCA	CCAGAACCTTTCCTGAGTCTGACACTTTGCTCGATGTATTCGACTATCTTctcgtaacggtgtgtcggttcgactccgaactcgatcaccatataAAACAAGGAGTTGCATGAGGTTTTTCATGCAACCCTTTTAGTTTGCCGAT	NZ_CBLV010000182.1	20613-20569	Y-Int.2
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	9.S	6822970.0	6831709.0	8739.0			TIGER_KW					S	island	GCACGCCTGGAAAGTGTGTATACAGGAAACTGTATCGAGAGTTCGAATCTctccttcaccgccacattTATACGTTAAAGCCCTGATTATTCAGGGCTTTTTCGTTTCTGCGTTTCTG	GCACGCCTGGAAAGTGTGTATACAGGAAACTGTATCGAGAGTTCGAATCTctccttcaccgccaaattCGATACACACAAAACCCCTGGTTTTCCAAGAAAACCAGGGGTTTTGTGGT	ATGGAAATAATTAAACGTATATGGACTTCTAAAAACACTAAAATGGCGGActccttcaccgccaaattCGATACACACAAAACCCCTGGTTTCCCAAGAAAACCAGGGGTTTGTGGTT	NC_015379.1	4910178-4910195	Y-Int.4
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	9S	6822964.0	6831701.0	8738.0			Islander_KW					S	island						Y-Int.4
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	pp1	112610.0	137665.0	25056.0			PhiSpy	294	trainSet_Pseudomonas	Pseudomonas_aeruginosa_PAO1.gb;Pseudomonas_putida_KT2440.gb	trainSet_Pseudomonas.out								
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	pp1	1132961.0	1154945.0	21985.0			PhiSpy	294	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	pp2	2337074.0	2354321.0	17248.0			PhiSpy	294	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
+pseudo6_N2E2	unitig_0|quiver.unitig_1|quiver|pilon	pp6	6772830.0	6780339.0	7510.0			PhiSpy	294	trainSet_genericAll	Generic_Test_Set	trainSet_genericAll.out								
