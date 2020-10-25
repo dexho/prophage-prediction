@@ -20,7 +20,7 @@ df = pd.DataFrame(columns=['orgID', 'scaffoldId', 'source', 'phage_gene', 'start
 
 #phage-related search terms
 search = ['phage', 'terminase', 'capsid', 'tail', 'fiber', 'sheath', 'connector', 'portal', 'tube', 'baseplate', 'plate', 'coat']
-exclude = ['Macrophage', 'phage shock']
+exclude = ['acrophage', 'hage shock','pore coat', 'latelet' ]
 
 #list of dictionaries
 ls_dict = []
@@ -43,20 +43,28 @@ for gb in os.listdir(genomes):
             if feature.type == 'CDS':
                 try:
                     desc = feature.qualifiers['product'][0]
+                    phage_r = False
                     for s in search:
-                        if s in desc and 'Macrophage' not in desc and 'phage shock' not in desc:
-                            phage_dict['orgID'] = orgID
-                            phage_dict['scaffoldID'] = scaffoldID
-                            phage_dict['source'] = 'server_RAST'
-                            phage_dict['phage_gene'] = desc
-                            phage_dict['start'] = feature.location.start
-                            phage_dict['end'] = feature.location.end
-                            phage_dict['len'] = feature.location.end - feature.location.start
-                            continue
+                        if s in desc:
+                            phage_r = True
+                            for r in exclude:
+                                if r in desc:
+                                    phage_r = False
+                    if phage_r:
+                        phage_dict['orgID'] = orgID
+                        phage_dict['scaffoldID'] = scaffoldID
+                        phage_dict['source'] = 'server_RAST'
+                        phage_dict['phage_gene'] = desc
+                        phage_dict['start'] = feature.location.start
+                        phage_dict['end'] = feature.location.end
+                        phage_dict['len'] = feature.location.end - feature.location.start
+                        ls_dict.extend([phage_dict])
                 except:
-                    continue
+                    x = 1
 
-            ls_dict.extend([phage_dict])
-
+print(ls_dict[0])
+print(ls_dict[1])
+print(ls_dict[2])
 df = pd.DataFrame(ls_dict)
+df = df.drop_duplicates()
 df.to_csv('rast_phage.csv')
