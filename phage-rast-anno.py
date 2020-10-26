@@ -1,6 +1,5 @@
 '''
 INPUT: RAST-ANNOTATED GENOMES
-INPUT: ORGID/SCAFFOLD REFERENCE
 OUTPUT: A CSV CONTAINING ORGID, SCAFFOLDID, SOURCE(SERVER_RAST), PHAGE GENE NAME, START, END, LENGTH
 IF THE GENE NAME CONTAINS A PHAGE-RELATED SEARCH TERM
 '''
@@ -12,6 +11,7 @@ from Bio.SeqFeature import SeqFeature, FeatureLocation
 import pandas as pd
 import sys, os
 
+#directory of genomes
 genomes = '/Users/desho/Desktop/yolanda/genomes/RAST-annotated-fit33'
 os.chdir(genomes)
 
@@ -19,17 +19,14 @@ os.chdir(genomes)
 df = pd.DataFrame(columns=['orgID', 'scaffoldId', 'source', 'phage_gene', 'start', 'end', 'length'])
 
 #phage-related search terms
-search = ['phage', 'terminase', 'capsid', 'tail', 'fiber', 'sheath', 'connector', 'portal', 'tube', 'baseplate', 'plate', 'coat']
-exclude = ['acrophage', 'hage shock','pore coat', 'latelet' ]
+search = ['phage', 'terminase', 'capsid', 'tail', 'fiber', 'sheath', 'connector', 'portal', 'tube', 'baseplate', 'plate', 'coat', 'lysin', 'occluden']
+exclude = ['acrophage', 'hage shock','pore coat', 'latelet', 'ysine', 'emolysin']
 
 #list of dictionaries
 ls_dict = []
 
 #iterate through genomes
 for gb in os.listdir(genomes):
-
-    #new dicitonary => 1 row of dataframe for phage annotation
-    phage_dict = {}
 
     seq_record = SeqIO.parse(gb, "genbank")
     orgID = gb.split('.')[0]
@@ -46,11 +43,14 @@ for gb in os.listdir(genomes):
                     phage_r = False
                     for s in search:
                         if s in desc:
+                            print(s, desc)
                             phage_r = True
                             for r in exclude:
                                 if r in desc:
                                     phage_r = False
                     if phage_r:
+                        #new dicitonary => 1 row of dataframe for phage annotation
+                        phage_dict = {}
                         phage_dict['orgID'] = orgID
                         phage_dict['scaffoldID'] = scaffoldID
                         phage_dict['source'] = 'server_RAST'
@@ -60,11 +60,9 @@ for gb in os.listdir(genomes):
                         phage_dict['len'] = feature.location.end - feature.location.start
                         ls_dict.extend([phage_dict])
                 except:
+                    #dummy code
                     x = 1
 
-print(ls_dict[0])
-print(ls_dict[1])
-print(ls_dict[2])
 df = pd.DataFrame(ls_dict)
 df = df.drop_duplicates()
 df.to_csv('rast_phage.csv')
