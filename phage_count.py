@@ -6,10 +6,10 @@ import re
 import sys, os
 
 
-file1='/Users/desho/Desktop/yolanda/pp_ppt_coord'
+file1='/Users/desho/Desktop/yolanda/data/pp_pptk_coord.txt'
 phage_all = pd.read_csv(file1, sep='\t')
 
-file2='/Users/desho/Desktop/yolanda/RAST_phage.csv'
+file2='/Users/desho/Desktop/yolanda/data/rast_phage_caps.csv'
 rast = pd.read_csv(file2, sep=',')
 
 phage_count = phage_all[['orgId', 'scaffoldId', 'phage', 'start', 'stop']].copy()
@@ -27,10 +27,10 @@ for i in range(phage_count.shape[0]):
 
     #iterate through RAST annotations
     for j in range(rast.shape[0]):
-        if rast.loc[j][1] == scaffold:
+        if rast.loc[j][2] == scaffold:
             t += 1
-            anno_start = (int) (rast.loc[j][4].replace(",",""))
-            anno_end = (int) (rast.loc[j][5].replace(",",""))
+            anno_start = rast.loc[j][5]
+            anno_end = rast.loc[j][6]
 
             #annotation in this region
             if (anno_end > start and anno_start < start) or (anno_end > end and anno_start < end) or (anno_end < end and anno_start > start):
@@ -41,4 +41,4 @@ for i in range(phage_count.shape[0]):
         phage_count.loc[i, 'percentage'] = c/t
 
 print(phage_count)
-phage_count.to_csv('phage_count.csv')
+phage_count.to_csv('phage_count_caps.csv')
